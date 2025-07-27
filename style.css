@@ -32,6 +32,23 @@ html, body {
   z-index: 2; /* Ensure it is above the video */
 }
 
+h2 {
+  margin-bottom: 29px;
+  font-size: 30px;
+  color: #000000;
+}
+
+.btn{
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none; /* Remove underline */
+}
+
 .squarebox2 {
   width: 800px;
   height: 500px;
