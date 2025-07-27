@@ -1,0 +1,4 @@
+user_id,destination,travel_type,state,best_time_to_visit,preferred_activities,gender,number_of_adults,number_of_children
+1,Delhi,adventure,Delhi,winter,sightseeing,male,2,1
+2,Mumbai,relaxation,Maharashtra,summer,shopping,female,1,0
+3,Agra,cultural,Uttar Pradesh,monsoon,food_tasting,male,4,2

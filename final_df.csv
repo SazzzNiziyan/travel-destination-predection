@@ -1,0 +1,994 @@
+ReviewID,DestinationID_x,UserID,Rating,ReviewText,Name_x,State,Type,Popularity,BestTimeToVisit,HistoryID,DestinationID_y,VisitDate,ExperienceRating,Name_y,Email,Preferences,Gender,NumberOfAdults,NumberOfChildren
+1,178,327,2,Incredible monument!,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,79,175,2024-01-01,3,Pooja,pooja@example.com,"City, Historical",Female,1,1
+2,411,783,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.284126727805766,Nov-Feb,834,894,2024-03-20,2,Karan,karan@example.com,"City, Historical",Male,1,1
+4,358,959,3,Incredible monument!,Jaipur City,Rajasthan,City,7.738761292909418,Oct-Mar,998,660,2024-02-15,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,1
+5,989,353,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.208087955185452,Sep-Mar,202,894,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,0
+6,473,408,4,A historical wonder,Jaipur City,Rajasthan,City,8.138557734045776,Oct-Mar,331,403,2024-01-01,2,Ishaan,ishaan@example.com,"City, Historical",Male,2,0
+7,977,735,3,Incredible monument!,Goa Beaches,Goa,Beach,8.499576395856343,Nov-Mar,280,7,2024-01-01,3,Riya,riya@example.com,"City, Historical",Female,1,0
+9,698,330,2,A historical wonder,Jaipur City,Rajasthan,City,8.305889899010864,Oct-Mar,19,208,2024-01-01,3,Aanya,aanya@example.com,"City, Historical",Female,2,1
+10,919,109,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.252136618345416,Sep-Mar,249,405,2024-03-20,5,Meera,meera@example.com,"Beaches, Historical",Female,2,0
+11,253,386,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.125034098865065,Oct-Mar,811,290,2024-01-01,4,Hitesh,hitesh@example.com,"Nature, Adventure",Male,2,0
+12,305,813,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872493591813,Apr-Jun,890,441,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,1,2
+14,300,626,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.799198881540521,Apr-Jun,918,952,2024-03-20,4,Rohan,rohan@example.com,"Nature, Adventure",Male,2,0
+16,434,20,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,472,311,2024-01-01,5,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+16,434,20,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,799,674,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+17,416,554,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.327014780224204,Nov-Feb,49,933,2024-01-01,1,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+17,416,554,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.327014780224204,Nov-Feb,489,529,2024-03-20,4,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+19,849,69,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,84,92,2024-03-20,2,Arjun,arjun@example.com,"City, Historical",Male,1,0
+19,849,69,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,428,170,2024-02-15,2,Arjun,arjun@example.com,"City, Historical",Male,1,0
+24,512,30,4,A historical wonder,Goa Beaches,Goa,Beach,9.222486404593646,Nov-Mar,541,239,2024-01-01,5,Riya,riya@example.com,"City, Historical",Female,1,1
+26,966,591,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.140527124056437,Nov-Feb,59,893,2024-02-15,1,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+26,966,591,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.140527124056437,Nov-Feb,532,679,2024-01-01,4,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+27,674,454,5,A historical wonder,Kerala Backwaters,Kerala,Nature,8.000500722385876,Sep-Mar,375,676,2024-03-20,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+27,674,454,5,A historical wonder,Kerala Backwaters,Kerala,Nature,8.000500722385876,Sep-Mar,865,457,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+28,56,982,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.77933917498307,Nov-Feb,553,544,2024-01-01,1,Meera,meera@example.com,"Beaches, Historical",Female,2,2
+30,160,356,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,136,993,2024-01-01,2,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,1
+30,160,356,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,487,436,2024-01-01,2,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,1
+32,56,322,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.77933917498307,Nov-Feb,833,618,2024-02-15,5,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+32,56,322,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.77933917498307,Nov-Feb,978,424,2024-03-20,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+33,515,332,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.481318666573411,Apr-Jun,638,583,2024-02-15,1,Riya,riya@example.com,"Nature, Adventure",Female,2,1
+34,780,979,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.291685937704914,Apr-Jun,152,68,2024-02-15,2,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+35,382,637,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.487140997084705,Nov-Mar,723,24,2024-03-20,1,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,0
+35,382,637,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.487140997084705,Nov-Mar,736,637,2024-01-01,5,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,0
+36,24,872,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,875,782,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,1
+37,390,560,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,347,38,2024-02-15,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+37,390,560,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,529,349,2024-01-01,4,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+37,390,560,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,569,657,2024-02-15,3,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+38,204,551,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,862,944,2024-01-01,1,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,2
+39,84,133,2,A historical wonder,Kerala Backwaters,Kerala,Nature,9.33374854303011,Sep-Mar,288,242,2024-03-20,4,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,2
+40,711,497,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,917,103,2024-02-15,1,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+40,711,497,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,957,369,2024-03-20,2,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+43,399,501,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.376325562448297,Sep-Mar,21,200,2024-03-20,1,Arjun,arjun@example.com,"City, Historical",Male,2,0
+44,57,539,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.061326287087322,Nov-Mar,161,282,2024-02-15,4,Aarav,aarav@example.com,"Nature, Adventure",Male,1,2
+44,57,539,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.061326287087322,Nov-Mar,208,684,2024-01-01,1,Aarav,aarav@example.com,"Nature, Adventure",Male,1,2
+45,763,535,4,A historical wonder,Jaipur City,Rajasthan,City,8.90257550420428,Oct-Mar,509,317,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,1,2
+45,763,535,4,A historical wonder,Jaipur City,Rajasthan,City,8.90257550420428,Oct-Mar,835,268,2024-01-01,1,Aanya,aanya@example.com,"Beaches, Historical",Female,1,2
+47,841,655,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.641198251436522,Nov-Feb,972,795,2024-03-20,5,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+50,152,480,2,Loved the beaches!,Goa Beaches,Goa,Beach,9.000248319359416,Nov-Mar,149,389,2024-02-15,1,Riya,riya@example.com,"City, Historical",Female,2,0
+50,152,480,2,Loved the beaches!,Goa Beaches,Goa,Beach,9.000248319359416,Nov-Mar,646,490,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,2,0
+51,523,488,1,A historical wonder,Jaipur City,Rajasthan,City,8.998307150645953,Oct-Mar,48,532,2024-03-20,2,Anika,anika@example.com,"Nature, Adventure",Female,1,0
+52,316,211,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.03328074273946,Nov-Feb,211,714,2024-01-01,3,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+53,956,875,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.240773308493525,Nov-Feb,827,330,2024-02-15,2,Hitesh,hitesh@example.com,"Nature, Adventure",Male,2,0
+54,665,321,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.175473128767925,Apr-Jun,281,805,2024-02-15,4,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+54,665,321,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.175473128767925,Apr-Jun,341,229,2024-02-15,5,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+55,503,903,1,Incredible monument!,Jaipur City,Rajasthan,City,8.918823544059974,Oct-Mar,853,16,2024-01-01,5,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+56,204,499,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,339,830,2024-03-20,3,Aarav,aarav@example.com,"Beaches, Historical",Male,2,0
+57,33,554,2,A historical wonder,Jaipur City,Rajasthan,City,7.684440449007848,Oct-Mar,49,933,2024-01-01,1,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+57,33,554,2,A historical wonder,Jaipur City,Rajasthan,City,7.684440449007848,Oct-Mar,489,529,2024-03-20,4,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+59,916,135,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.39676149780104,Nov-Feb,696,836,2024-03-20,5,Meera,meera@example.com,"City, Historical",Female,1,2
+59,916,135,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.39676149780104,Nov-Feb,981,818,2024-03-20,4,Meera,meera@example.com,"City, Historical",Female,1,2
+61,365,851,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,153,266,2024-03-20,4,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+61,365,851,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,792,956,2024-03-20,3,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+61,365,851,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,843,384,2024-03-20,4,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+62,517,572,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.715019439382655,Nov-Mar,356,699,2024-02-15,4,Meera,meera@example.com,"Nature, Adventure",Female,2,2
+62,517,572,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.715019439382655,Nov-Mar,446,413,2024-02-15,5,Meera,meera@example.com,"Nature, Adventure",Female,2,2
+62,517,572,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.715019439382655,Nov-Mar,535,685,2024-01-01,3,Meera,meera@example.com,"Nature, Adventure",Female,2,2
+63,305,103,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872493591813,Apr-Jun,748,828,2024-01-01,2,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+64,931,668,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.309322896703316,Nov-Feb,615,322,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,0
+65,351,569,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,500,451,2024-02-15,2,Aanya,aanya@example.com,"Nature, Adventure",Female,2,2
+69,181,740,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.236840653145723,Nov-Feb,971,692,2024-02-15,3,Isha,isha@example.com,"Nature, Adventure",Female,1,1
+70,817,989,4,Incredible monument!,Goa Beaches,Goa,Beach,7.999026975129425,Nov-Mar,5,389,2024-02-15,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+70,817,989,4,Incredible monument!,Goa Beaches,Goa,Beach,7.999026975129425,Nov-Mar,12,779,2024-03-20,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+72,373,112,4,A historical wonder,Jaipur City,Rajasthan,City,9.276956975859664,Oct-Mar,871,691,2024-01-01,5,Karan,karan@example.com,"Beaches, Historical",Male,1,2
+75,23,684,4,A historical wonder,Jaipur City,Rajasthan,City,7.883349652185746,Oct-Mar,385,281,2024-01-01,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+75,23,684,4,A historical wonder,Jaipur City,Rajasthan,City,7.883349652185746,Oct-Mar,570,772,2024-03-20,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+75,23,684,4,A historical wonder,Jaipur City,Rajasthan,City,7.883349652185746,Oct-Mar,989,142,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+76,140,548,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.907807740975244,Apr-Jun,258,880,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,0
+78,590,340,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.17109010854659,Apr-Jun,965,645,2024-02-15,2,Diya,diya@example.com,"Beaches, Historical",Female,1,0
+79,146,575,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,167,311,2024-02-15,2,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,2
+79,146,575,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,299,957,2024-02-15,5,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,2
+80,939,182,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.40872418732025,Sep-Mar,366,7,2024-03-20,5,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,1
+81,507,359,3,A historical wonder,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,238,864,2024-01-01,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+81,507,359,3,A historical wonder,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,254,678,2024-02-15,2,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+81,507,359,3,A historical wonder,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,450,353,2024-03-20,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+83,743,862,4,Loved the beaches!,Jaipur City,Rajasthan,City,7.727596682180292,Oct-Mar,264,525,2024-03-20,3,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+83,743,862,4,Loved the beaches!,Jaipur City,Rajasthan,City,7.727596682180292,Oct-Mar,558,103,2024-03-20,2,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+85,867,757,1,Incredible monument!,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,147,126,2024-03-20,2,Karan,karan@example.com,"Beaches, Historical",Male,1,0
+85,867,757,1,Incredible monument!,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,325,36,2024-01-01,5,Karan,karan@example.com,"Beaches, Historical",Male,1,0
+85,867,757,1,Incredible monument!,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,585,528,2024-03-20,4,Karan,karan@example.com,"Beaches, Historical",Male,1,0
+92,226,628,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.721478393909334,Nov-Feb,80,631,2024-02-15,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+92,226,628,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.721478393909334,Nov-Feb,412,35,2024-01-01,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+93,304,225,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.61120828898768,Sep-Mar,950,64,2024-02-15,5,Isha,isha@example.com,"City, Historical",Female,2,0
+94,234,538,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.420960540403104,Sep-Mar,269,837,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+94,234,538,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.420960540403104,Sep-Mar,999,30,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+95,14,590,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,797,171,2024-02-15,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,2
+96,671,700,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.406991630850325,Nov-Feb,717,535,2024-03-20,4,Aarav,aarav@example.com,"Beaches, Historical",Male,1,2
+97,961,563,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.385107105120452,Nov-Feb,126,403,2024-03-20,3,Karan,karan@example.com,"Nature, Adventure",Male,2,2
+98,343,937,4,Loved the beaches!,Jaipur City,Rajasthan,City,7.873481445510227,Oct-Mar,651,712,2024-03-20,1,Riya,riya@example.com,"Beaches, Historical",Female,2,2
+104,960,568,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,942,805,2024-03-20,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+106,917,944,1,Incredible monument!,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,113,391,2024-02-15,4,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+106,917,944,1,Incredible monument!,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,133,749,2024-01-01,4,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+106,917,944,1,Incredible monument!,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,503,732,2024-02-15,3,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+106,917,944,1,Incredible monument!,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,610,702,2024-01-01,3,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+107,555,212,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,824,42,2024-02-15,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,0
+108,648,397,4,A historical wonder,Jaipur City,Rajasthan,City,8.771306422116705,Oct-Mar,750,85,2024-03-20,3,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+109,103,99,4,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,980,37,2024-02-15,4,Ishaan,ishaan@example.com,"City, Historical",Male,2,0
+110,715,474,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983035928,Apr-Jun,225,899,2024-03-20,1,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+110,715,474,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983035928,Apr-Jun,573,273,2024-03-20,4,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+110,715,474,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983035928,Apr-Jun,967,24,2024-01-01,5,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+113,295,242,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912303714,Apr-Jun,439,459,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+115,707,2,5,Incredible monument!,Goa Beaches,Goa,Beach,8.629118750166763,Nov-Mar,31,385,2024-01-01,5,Rohan,rohan@example.com,"Nature, Adventure",Male,2,2
+115,707,2,5,Incredible monument!,Goa Beaches,Goa,Beach,8.629118750166763,Nov-Mar,451,437,2024-01-01,2,Rohan,rohan@example.com,"Nature, Adventure",Male,2,2
+116,160,43,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,726,200,2024-03-20,1,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+119,969,446,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,72,105,2024-03-20,3,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+119,969,446,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,442,115,2024-01-01,4,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+120,346,899,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,109,9,2024-01-01,1,Anika,anika@example.com,"Nature, Adventure",Female,1,1
+121,486,415,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.2500304022815,Nov-Feb,349,216,2024-01-01,4,Arjun,arjun@example.com,"Beaches, Historical",Male,1,2
+123,709,218,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,213,258,2024-03-20,1,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+123,709,218,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,230,484,2024-02-15,3,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+124,206,128,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.282226276103572,Nov-Feb,311,330,2024-02-15,3,Rohan,rohan@example.com,"Nature, Adventure",Male,2,2
+125,280,940,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.639341731351649,Apr-Jun,562,411,2024-01-01,5,Anika,anika@example.com,"Beaches, Historical",Female,1,1
+126,503,682,5,A historical wonder,Jaipur City,Rajasthan,City,8.918823544059974,Oct-Mar,353,335,2024-02-15,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+127,93,805,1,Incredible monument!,Jaipur City,Rajasthan,City,9.116298424696906,Oct-Mar,127,428,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+128,983,851,2,Loved the beaches!,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,153,266,2024-03-20,4,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+128,983,851,2,Loved the beaches!,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,792,956,2024-03-20,3,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+128,983,851,2,Loved the beaches!,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,843,384,2024-03-20,4,Anika,anika@example.com,"Nature, Adventure",Female,2,0
+129,9,509,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.260450137338132,Sep-Mar,869,849,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,0
+130,2,528,3,Incredible monument!,Goa Beaches,Goa,Beach,8.605031858363876,Nov-Mar,517,872,2024-01-01,4,Isha,isha@example.com,"City, Historical",Female,2,1
+130,2,528,3,Incredible monument!,Goa Beaches,Goa,Beach,8.605031858363876,Nov-Mar,519,824,2024-03-20,1,Isha,isha@example.com,"City, Historical",Female,2,1
+130,2,528,3,Incredible monument!,Goa Beaches,Goa,Beach,8.605031858363876,Nov-Mar,657,619,2024-03-20,2,Isha,isha@example.com,"City, Historical",Female,2,1
+131,542,207,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.682101749793983,Nov-Mar,743,587,2024-02-15,3,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+132,210,54,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.277611273067814,Apr-Jun,603,678,2024-03-20,2,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+133,302,169,3,Incredible monument!,Goa Beaches,Goa,Beach,7.64928107708147,Nov-Mar,507,196,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+133,302,169,3,Incredible monument!,Goa Beaches,Goa,Beach,7.64928107708147,Nov-Mar,892,392,2024-01-01,1,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+134,209,764,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.650543289908463,Sep-Mar,905,735,2024-02-15,3,Riya,riya@example.com,"Nature, Adventure",Female,2,1
+135,700,919,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.87865289903948,Apr-Jun,373,413,2024-01-01,2,Aanya,aanya@example.com,"Beaches, Historical",Female,1,1
+137,960,612,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,635,962,2024-02-15,5,Aanya,aanya@example.com,"City, Historical",Female,2,0
+139,47,703,2,Incredible monument!,Goa Beaches,Goa,Beach,7.726020724706562,Nov-Mar,146,82,2024-02-15,2,Vivaan,vivaan@example.com,"Beaches, Historical",Male,2,1
+143,531,582,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.819012402589374,Nov-Feb,284,518,2024-02-15,4,Anika,anika@example.com,"City, Historical",Female,2,2
+145,864,397,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.147968243343048,Sep-Mar,750,85,2024-03-20,3,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+148,953,34,4,Incredible monument!,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,95,886,2024-02-15,5,Meera,meera@example.com,"Beaches, Historical",Female,1,2
+148,953,34,4,Incredible monument!,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,790,910,2024-01-01,5,Meera,meera@example.com,"Beaches, Historical",Female,1,2
+148,953,34,4,Incredible monument!,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,915,297,2024-03-20,1,Meera,meera@example.com,"Beaches, Historical",Female,1,2
+149,959,589,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.052548436473314,Sep-Mar,994,20,2024-01-01,1,Arjun,arjun@example.com,"Beaches, Historical",Male,2,2
+151,434,943,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,394,990,2024-01-01,5,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,1
+151,434,943,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,565,479,2024-01-01,4,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,1
+153,356,490,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.606176983767309,Nov-Feb,548,4,2024-02-15,1,Isha,isha@example.com,"Beaches, Historical",Female,2,1
+154,884,478,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.241444802843858,Sep-Mar,784,539,2024-01-01,2,Arjun,arjun@example.com,"Beaches, Historical",Male,2,0
+155,886,639,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,444,545,2024-03-20,5,Ishaan,ishaan@example.com,"City, Historical",Male,1,2
+156,702,708,4,A historical wonder,Goa Beaches,Goa,Beach,9.111768717459087,Nov-Mar,46,127,2024-01-01,4,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+156,702,708,4,A historical wonder,Goa Beaches,Goa,Beach,9.111768717459087,Nov-Mar,344,395,2024-02-15,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+157,358,524,1,Incredible monument!,Jaipur City,Rajasthan,City,7.738761292909418,Oct-Mar,115,476,2024-01-01,5,Diya,diya@example.com,"Nature, Adventure",Female,2,2
+158,518,596,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,137,926,2024-02-15,5,Aanya,aanya@example.com,"Nature, Adventure",Female,1,1
+159,90,919,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.864848872360961,Apr-Jun,373,413,2024-01-01,2,Aanya,aanya@example.com,"Beaches, Historical",Female,1,1
+161,796,585,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.243698788707544,Nov-Feb,268,801,2024-01-01,4,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+162,405,399,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,7,953,2024-01-01,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+164,317,862,5,Loved the beaches!,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,264,525,2024-03-20,3,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+164,317,862,5,Loved the beaches!,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,558,103,2024-03-20,2,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+166,770,752,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,24,420,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+166,770,752,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,496,203,2024-01-01,5,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+166,770,752,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,975,799,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+168,426,338,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.742346085788473,Nov-Feb,490,436,2024-01-01,5,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+172,596,992,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.865548979182885,Nov-Feb,352,62,2024-01-01,4,Karan,karan@example.com,"Nature, Adventure",Male,1,2
+172,596,992,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.865548979182885,Nov-Feb,516,296,2024-03-20,5,Karan,karan@example.com,"Nature, Adventure",Male,1,2
+172,596,992,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.865548979182885,Nov-Feb,781,259,2024-01-01,1,Karan,karan@example.com,"Nature, Adventure",Male,1,2
+173,291,109,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.571800372009168,Nov-Feb,249,405,2024-03-20,5,Meera,meera@example.com,"Beaches, Historical",Female,2,0
+175,492,326,3,Incredible monument!,Goa Beaches,Goa,Beach,8.1282869592547,Nov-Mar,885,986,2024-03-20,2,Diya,diya@example.com,"Nature, Adventure",Female,1,0
+175,492,326,3,Incredible monument!,Goa Beaches,Goa,Beach,8.1282869592547,Nov-Mar,983,880,2024-02-15,1,Diya,diya@example.com,"Nature, Adventure",Female,1,0
+177,118,123,3,A historical wonder,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,227,49,2024-02-15,2,Diya,diya@example.com,"City, Historical",Female,2,1
+177,118,123,3,A historical wonder,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,274,622,2024-01-01,4,Diya,diya@example.com,"City, Historical",Female,2,1
+177,118,123,3,A historical wonder,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,782,148,2024-02-15,3,Diya,diya@example.com,"City, Historical",Female,2,1
+179,886,333,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,888,685,2024-03-20,5,Anika,anika@example.com,"City, Historical",Female,2,0
+183,806,736,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,455,970,2024-02-15,2,Dhruv,dhruv@example.com,"Beaches, Historical",Male,1,1
+186,386,262,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,872,202,2024-02-15,2,Kavya,kavya@example.com,"Beaches, Historical",Female,2,2
+187,448,91,2,Incredible monument!,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,279,153,2024-03-20,5,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,1
+187,448,91,2,Incredible monument!,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,390,954,2024-03-20,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,1
+188,722,240,5,Loved the beaches!,Goa Beaches,Goa,Beach,9.389779698220083,Nov-Mar,751,935,2024-01-01,2,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+188,722,240,5,Loved the beaches!,Goa Beaches,Goa,Beach,9.389779698220083,Nov-Mar,960,700,2024-03-20,1,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+189,872,124,2,A historical wonder,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,542,881,2024-02-15,3,Rohan,rohan@example.com,"Beaches, Historical",Male,2,0
+190,750,364,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.956458952804828,Apr-Jun,947,262,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,2,2
+191,277,466,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.694303252963497,Nov-Mar,468,730,2024-03-20,5,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+191,277,466,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.694303252963497,Nov-Mar,648,39,2024-03-20,4,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+192,762,391,4,A historical wonder,Goa Beaches,Goa,Beach,8.147811499679674,Nov-Mar,628,541,2024-01-01,3,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,1
+193,237,533,3,Incredible monument!,Goa Beaches,Goa,Beach,8.160740974111713,Nov-Mar,38,559,2024-02-15,3,Riya,riya@example.com,"Nature, Adventure",Female,1,1
+194,302,274,4,Loved the beaches!,Goa Beaches,Goa,Beach,7.64928107708147,Nov-Mar,783,772,2024-03-20,4,Aarav,aarav@example.com,"Beaches, Historical",Male,1,2
+196,970,798,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,265,394,2024-01-01,3,Rohan,rohan@example.com,"City, Historical",Male,2,1
+196,970,798,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,742,975,2024-01-01,5,Rohan,rohan@example.com,"City, Historical",Male,2,1
+198,116,101,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.636073233725135,Nov-Feb,668,537,2024-02-15,4,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+198,116,101,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.636073233725135,Nov-Feb,868,984,2024-01-01,3,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+199,855,503,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.913268954871437,Apr-Jun,276,926,2024-03-20,5,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,2
+199,855,503,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.913268954871437,Apr-Jun,363,139,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,2
+201,486,363,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.2500304022815,Nov-Feb,118,152,2024-01-01,2,Anika,anika@example.com,"City, Historical",Female,1,0
+202,70,71,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.302199786049163,Apr-Jun,223,840,2024-01-01,4,Kavya,kavya@example.com,"Nature, Adventure",Female,2,2
+203,244,556,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.011521245140806,Sep-Mar,98,387,2024-02-15,2,Aditya,aditya@example.com,"Beaches, Historical",Male,1,0
+205,664,674,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.975932402561909,Sep-Mar,616,295,2024-01-01,1,Aarav,aarav@example.com,"Nature, Adventure",Male,1,1
+206,767,114,5,Loved the beaches!,Goa Beaches,Goa,Beach,8.24362221802096,Nov-Mar,448,485,2024-01-01,5,Hitesh,hitesh@example.com,"City, Historical",Male,1,0
+208,293,103,4,Incredible monument!,Jaipur City,Rajasthan,City,7.534360802624437,Oct-Mar,748,828,2024-01-01,2,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+209,214,949,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.37824470003113,Sep-Mar,410,509,2024-02-15,4,Riya,riya@example.com,"Beaches, Historical",Female,2,2
+210,952,786,5,A historical wonder,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,232,42,2024-01-01,5,Tanvi,tanvi@example.com,"City, Historical",Female,2,1
+211,793,399,4,Incredible monument!,Jaipur City,Rajasthan,City,7.781580260307882,Oct-Mar,7,953,2024-01-01,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+212,598,419,4,Loved the beaches!,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,303,192,2024-03-20,4,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+212,598,419,4,Loved the beaches!,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,791,578,2024-02-15,1,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+214,636,76,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.591103123657849,Nov-Feb,20,310,2024-02-15,2,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+214,636,76,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.591103123657849,Nov-Feb,986,29,2024-02-15,5,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+215,641,330,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.559749376912812,Nov-Feb,19,208,2024-01-01,3,Aanya,aanya@example.com,"City, Historical",Female,2,1
+216,518,336,4,A historical wonder,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,617,986,2024-02-15,1,Ritvik,ritvik@example.com,"City, Historical",Male,2,1
+216,518,336,4,A historical wonder,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,761,347,2024-02-15,2,Ritvik,ritvik@example.com,"City, Historical",Male,2,1
+217,484,941,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,108,936,2024-03-20,4,Aditya,aditya@example.com,"Nature, Adventure",Male,2,2
+218,476,101,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,668,537,2024-02-15,4,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+218,476,101,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,868,984,2024-01-01,3,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+219,121,544,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.624112218256297,Nov-Feb,110,472,2024-02-15,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,1
+219,121,544,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.624112218256297,Nov-Feb,168,763,2024-03-20,5,Pooja,pooja@example.com,"Beaches, Historical",Female,1,1
+221,500,448,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,637,287,2024-01-01,2,Ritvik,ritvik@example.com,"Beaches, Historical",Male,1,0
+223,182,814,2,Incredible monument!,Goa Beaches,Goa,Beach,8.332585021952074,Nov-Mar,160,181,2024-01-01,4,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+223,182,814,2,Incredible monument!,Goa Beaches,Goa,Beach,8.332585021952074,Nov-Mar,210,853,2024-03-20,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+223,182,814,2,Incredible monument!,Goa Beaches,Goa,Beach,8.332585021952074,Nov-Mar,654,137,2024-03-20,1,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+224,237,564,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.160740974111713,Nov-Mar,768,188,2024-03-20,3,Vivaan,vivaan@example.com,"City, Historical",Male,2,0
+224,237,564,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.160740974111713,Nov-Mar,988,348,2024-01-01,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,0
+225,995,474,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.74636736837115,Apr-Jun,225,899,2024-03-20,1,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+225,995,474,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.74636736837115,Apr-Jun,573,273,2024-03-20,4,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+225,995,474,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.74636736837115,Apr-Jun,967,24,2024-01-01,5,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+226,369,128,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.526677667953975,Sep-Mar,311,330,2024-02-15,3,Rohan,rohan@example.com,"Nature, Adventure",Male,2,2
+227,650,502,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.204607883952981,Apr-Jun,536,978,2024-02-15,1,Kavya,kavya@example.com,"Beaches, Historical",Female,2,0
+228,962,260,1,A historical wonder,Goa Beaches,Goa,Beach,9.210850998967874,Nov-Mar,33,208,2024-03-20,2,Isha,isha@example.com,"Nature, Adventure",Female,1,0
+228,962,260,1,A historical wonder,Goa Beaches,Goa,Beach,9.210850998967874,Nov-Mar,650,167,2024-02-15,5,Isha,isha@example.com,"Nature, Adventure",Female,1,0
+228,962,260,1,A historical wonder,Goa Beaches,Goa,Beach,9.210850998967874,Nov-Mar,961,7,2024-01-01,1,Isha,isha@example.com,"Nature, Adventure",Female,1,0
+229,34,475,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.206055639263237,Sep-Mar,857,821,2024-02-15,5,Karan,karan@example.com,"Beaches, Historical",Male,1,1
+230,761,703,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.36014231646272,Nov-Feb,146,82,2024-02-15,2,Vivaan,vivaan@example.com,"Beaches, Historical",Male,2,1
+231,719,127,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.603678777019319,Sep-Mar,155,938,2024-02-15,3,Diya,diya@example.com,"Beaches, Historical",Female,2,2
+232,13,554,3,Incredible monument!,Jaipur City,Rajasthan,City,9.114721643188815,Oct-Mar,49,933,2024-01-01,1,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+232,13,554,3,Incredible monument!,Jaipur City,Rajasthan,City,9.114721643188815,Oct-Mar,489,529,2024-03-20,4,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+233,144,777,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.8305412284530735,Sep-Mar,389,590,2024-02-15,2,Vivaan,vivaan@example.com,"City, Historical",Male,1,2
+233,144,777,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.8305412284530735,Sep-Mar,452,71,2024-02-15,3,Vivaan,vivaan@example.com,"City, Historical",Male,1,2
+235,180,711,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,382,979,2024-01-01,3,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+235,180,711,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,661,831,2024-01-01,2,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+235,180,711,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,963,705,2024-03-20,5,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+236,415,169,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,507,196,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+236,415,169,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,892,392,2024-01-01,1,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+238,613,874,2,Incredible monument!,Jaipur City,Rajasthan,City,7.893422691754661,Oct-Mar,151,315,2024-01-01,3,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+238,613,874,2,Incredible monument!,Jaipur City,Rajasthan,City,7.893422691754661,Oct-Mar,302,117,2024-02-15,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+240,379,29,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.710901822596214,Sep-Mar,65,505,2024-02-15,3,Diya,diya@example.com,"Nature, Adventure",Female,2,0
+241,960,421,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,30,410,2024-03-20,3,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,1
+247,257,800,4,Incredible monument!,Goa Beaches,Goa,Beach,8.284116199094758,Nov-Mar,398,363,2024-02-15,3,Anika,anika@example.com,"Nature, Adventure",Female,1,2
+247,257,800,4,Incredible monument!,Goa Beaches,Goa,Beach,8.284116199094758,Nov-Mar,702,269,2024-03-20,1,Anika,anika@example.com,"Nature, Adventure",Female,1,2
+249,345,987,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.315488065792977,Apr-Jun,364,754,2024-01-01,5,Meera,meera@example.com,"City, Historical",Female,2,2
+250,191,663,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.072256876114661,Nov-Feb,923,483,2024-02-15,3,Aarav,aarav@example.com,"City, Historical",Male,1,1
+252,915,484,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.85112195819902,Apr-Jun,171,617,2024-03-20,4,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+252,915,484,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.85112195819902,Apr-Jun,618,850,2024-03-20,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+253,969,117,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,381,366,2024-03-20,1,Aarav,aarav@example.com,"City, Historical",Male,2,1
+253,969,117,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,849,154,2024-03-20,2,Aarav,aarav@example.com,"City, Historical",Male,2,1
+254,599,239,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.463041121922352,Sep-Mar,121,27,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,0
+254,599,239,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.463041121922352,Sep-Mar,621,690,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,0
+255,151,871,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.450175079123191,Nov-Feb,813,970,2024-03-20,5,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+256,436,364,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,947,262,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,2,2
+257,429,20,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,472,311,2024-01-01,5,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+257,429,20,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,799,674,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+259,875,733,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.98297001694882,Apr-Jun,294,638,2024-03-20,3,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+259,875,733,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.98297001694882,Apr-Jun,445,676,2024-01-01,5,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+261,180,544,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,110,472,2024-02-15,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,1
+261,180,544,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,168,763,2024-03-20,5,Pooja,pooja@example.com,"Beaches, Historical",Female,1,1
+262,528,256,5,Incredible monument!,Jaipur City,Rajasthan,City,8.564171557585537,Oct-Mar,145,242,2024-01-01,3,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,1
+263,584,76,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.877125609308293,Sep-Mar,20,310,2024-02-15,2,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+263,584,76,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.877125609308293,Sep-Mar,986,29,2024-02-15,5,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+264,63,662,1,A historical wonder,Jaipur City,Rajasthan,City,9.202094230781736,Oct-Mar,187,912,2024-01-01,3,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+264,63,662,1,A historical wonder,Jaipur City,Rajasthan,City,9.202094230781736,Oct-Mar,874,959,2024-01-01,1,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+266,130,133,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.46063445778344,Apr-Jun,288,242,2024-03-20,4,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,2
+267,592,285,1,A historical wonder,Goa Beaches,Goa,Beach,9.168100701200414,Nov-Mar,527,167,2024-02-15,2,Isha,isha@example.com,"City, Historical",Female,1,0
+269,268,20,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.015626863328043,Oct-Mar,472,311,2024-01-01,5,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+269,268,20,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.015626863328043,Oct-Mar,799,674,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+271,635,769,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680031670806,Apr-Jun,649,236,2024-01-01,1,Kavya,kavya@example.com,"Beaches, Historical",Female,2,1
+271,635,769,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680031670806,Apr-Jun,655,611,2024-01-01,3,Kavya,kavya@example.com,"Beaches, Historical",Female,2,1
+272,442,834,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.459808776651839,Nov-Mar,81,575,2024-03-20,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+272,442,834,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.459808776651839,Nov-Mar,659,866,2024-02-15,4,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+272,442,834,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.459808776651839,Nov-Mar,715,361,2024-01-01,5,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+272,442,834,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.459808776651839,Nov-Mar,839,245,2024-02-15,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+273,909,81,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.740400669784297,Sep-Mar,25,805,2024-01-01,3,Isha,isha@example.com,"City, Historical",Female,1,2
+275,462,591,4,Loved the beaches!,Goa Beaches,Goa,Beach,7.625998220803341,Nov-Mar,59,893,2024-02-15,1,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+275,462,591,4,Loved the beaches!,Goa Beaches,Goa,Beach,7.625998220803341,Nov-Mar,532,679,2024-01-01,4,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+276,218,100,2,A historical wonder,Jaipur City,Rajasthan,City,9.034168574407344,Oct-Mar,796,53,2024-01-01,3,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,1
+277,666,200,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.535347955383795,Nov-Feb,774,826,2024-03-20,3,Aditya,aditya@example.com,"Nature, Adventure",Male,1,1
+278,548,373,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.086168021757981,Oct-Mar,506,867,2024-02-15,5,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+278,548,373,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.086168021757981,Oct-Mar,571,865,2024-01-01,1,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+282,282,181,4,A historical wonder,Goa Beaches,Goa,Beach,8.888987617087139,Nov-Mar,186,869,2024-03-20,1,Aarav,aarav@example.com,"Beaches, Historical",Male,2,1
+283,870,999,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.31662363535272,Apr-Jun,473,11,2024-02-15,3,Hitesh,hitesh@example.com,"City, Historical",Male,2,2
+283,870,999,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.31662363535272,Apr-Jun,692,811,2024-02-15,3,Hitesh,hitesh@example.com,"City, Historical",Male,2,2
+284,693,316,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.397475308756675,Oct-Mar,120,22,2024-03-20,5,Meera,meera@example.com,"Beaches, Historical",Female,2,0
+284,693,316,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.397475308756675,Oct-Mar,421,975,2024-01-01,3,Meera,meera@example.com,"Beaches, Historical",Female,2,0
+285,978,135,1,A historical wonder,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,696,836,2024-03-20,5,Meera,meera@example.com,"City, Historical",Female,1,2
+285,978,135,1,A historical wonder,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,981,818,2024-03-20,4,Meera,meera@example.com,"City, Historical",Female,1,2
+286,390,827,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,384,221,2024-03-20,3,Rohan,rohan@example.com,"Nature, Adventure",Male,2,0
+287,468,855,3,Loved the beaches!,Jaipur City,Rajasthan,City,9.47910151784028,Oct-Mar,92,371,2024-02-15,5,Pooja,pooja@example.com,"City, Historical",Female,1,1
+287,468,855,3,Loved the beaches!,Jaipur City,Rajasthan,City,9.47910151784028,Oct-Mar,611,20,2024-02-15,1,Pooja,pooja@example.com,"City, Historical",Female,1,1
+288,770,803,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,358,177,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+288,770,803,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,788,950,2024-02-15,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+288,770,803,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,912,161,2024-03-20,1,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+289,514,452,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.980635862122308,Sep-Mar,887,991,2024-02-15,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+290,60,743,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276209098,Apr-Jun,365,614,2024-02-15,4,Riya,riya@example.com,"Nature, Adventure",Female,1,2
+290,60,743,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276209098,Apr-Jun,459,324,2024-03-20,1,Riya,riya@example.com,"Nature, Adventure",Female,1,2
+291,878,101,5,A historical wonder,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,668,537,2024-02-15,4,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+291,878,101,5,A historical wonder,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,868,984,2024-01-01,3,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+293,178,653,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,102,423,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+293,178,653,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,217,217,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+293,178,653,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,336,756,2024-03-20,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+293,178,653,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.544351694378236,Oct-Mar,409,413,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+295,955,931,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.10676258457348,Apr-Jun,235,897,2024-01-01,1,Arjun,arjun@example.com,"Beaches, Historical",Male,1,0
+300,878,989,3,A historical wonder,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,5,389,2024-02-15,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+300,878,989,3,A historical wonder,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,12,779,2024-03-20,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+301,294,838,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.553046939554307,Sep-Mar,864,335,2024-03-20,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+302,491,729,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.20803233304684,Nov-Feb,729,874,2024-03-20,3,Diya,diya@example.com,"City, Historical",Female,2,0
+304,693,792,5,Incredible monument!,Jaipur City,Rajasthan,City,8.397475308756675,Oct-Mar,176,898,2024-02-15,1,Hitesh,hitesh@example.com,"City, Historical",Male,1,0
+305,478,628,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.746027540435104,Oct-Mar,80,631,2024-02-15,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+305,478,628,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.746027540435104,Oct-Mar,412,35,2024-01-01,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+306,400,281,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.120122756229376,Apr-Jun,771,228,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,2
+307,520,480,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495404149,Apr-Jun,149,389,2024-02-15,1,Riya,riya@example.com,"City, Historical",Female,2,0
+307,520,480,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495404149,Apr-Jun,646,490,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,2,0
+308,685,88,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165312162,Apr-Jun,100,889,2024-01-01,1,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,1
+308,685,88,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165312162,Apr-Jun,200,383,2024-02-15,2,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,1
+309,166,225,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.967520190746358,Nov-Feb,950,64,2024-02-15,5,Isha,isha@example.com,"City, Historical",Female,2,0
+310,977,109,3,Incredible monument!,Goa Beaches,Goa,Beach,8.499576395856343,Nov-Mar,249,405,2024-03-20,5,Meera,meera@example.com,"Beaches, Historical",Female,2,0
+311,409,546,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.695324251011531,Sep-Mar,815,586,2024-02-15,4,Pooja,pooja@example.com,"City, Historical",Female,1,0
+314,35,782,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955366532,Apr-Jun,150,805,2024-03-20,3,Aditya,aditya@example.com,"Nature, Adventure",Male,1,0
+315,720,973,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.034817273030939,Apr-Jun,804,628,2024-03-20,3,Kavya,kavya@example.com,"Beaches, Historical",Female,1,2
+317,844,781,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.173580627388572,Sep-Mar,41,284,2024-02-15,3,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+319,25,916,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131108329,Apr-Jun,165,753,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+319,25,916,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131108329,Apr-Jun,642,627,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+321,867,475,4,A historical wonder,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,857,821,2024-02-15,5,Karan,karan@example.com,"Beaches, Historical",Male,1,1
+322,905,516,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644498964263,Apr-Jun,497,921,2024-02-15,5,Aditya,aditya@example.com,"City, Historical",Male,1,1
+322,905,516,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644498964263,Apr-Jun,586,814,2024-01-01,1,Aditya,aditya@example.com,"City, Historical",Male,1,1
+323,20,330,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395039807,Apr-Jun,19,208,2024-01-01,3,Aanya,aanya@example.com,"City, Historical",Female,2,1
+324,171,499,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.721043377213922,Nov-Feb,339,830,2024-03-20,3,Aarav,aarav@example.com,"Beaches, Historical",Male,2,0
+325,188,95,5,Incredible monument!,Jaipur City,Rajasthan,City,8.202625978518912,Oct-Mar,747,67,2024-03-20,2,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+326,1000,365,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.939036209396416,Apr-Jun,218,872,2024-02-15,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,1
+327,659,620,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.991928056209089,Sep-Mar,387,624,2024-03-20,4,Aditya,aditya@example.com,"Nature, Adventure",Male,2,0
+331,223,315,1,Incredible monument!,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,285,496,2024-03-20,2,Arjun,arjun@example.com,"City, Historical",Male,2,0
+331,223,315,1,Incredible monument!,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,707,463,2024-02-15,1,Arjun,arjun@example.com,"City, Historical",Male,2,0
+332,396,699,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,598,7,2024-01-01,2,Aditya,aditya@example.com,"City, Historical",Male,2,2
+333,502,180,5,A historical wonder,Goa Beaches,Goa,Beach,9.314545773276503,Nov-Mar,193,960,2024-01-01,3,Saanvi,saanvi@example.com,"City, Historical",Female,1,2
+334,792,434,1,Incredible monument!,Goa Beaches,Goa,Beach,7.50562874119151,Nov-Mar,466,396,2024-01-01,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,2
+334,792,434,1,Incredible monument!,Goa Beaches,Goa,Beach,7.50562874119151,Nov-Mar,491,725,2024-02-15,3,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,2
+335,208,5,3,Loved the beaches!,Jaipur City,Rajasthan,City,9.232664943302456,Oct-Mar,194,425,2024-02-15,3,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,2
+338,821,297,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.853137683108654,Nov-Feb,56,659,2024-02-15,2,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+341,604,733,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.298998286534964,Sep-Mar,294,638,2024-03-20,3,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+341,604,733,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.298998286534964,Sep-Mar,445,676,2024-01-01,5,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+342,176,567,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,411,996,2024-03-20,5,Kavya,kavya@example.com,"City, Historical",Female,2,1
+342,176,567,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,608,899,2024-02-15,5,Kavya,kavya@example.com,"City, Historical",Female,2,1
+343,918,579,2,Incredible monument!,Jaipur City,Rajasthan,City,9.371201913686736,Oct-Mar,346,211,2024-01-01,4,Aarav,aarav@example.com,"City, Historical",Male,2,1
+345,709,778,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,431,951,2024-02-15,5,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+345,709,778,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,547,429,2024-01-01,5,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+345,709,778,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,695,365,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+346,276,904,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.591070676890291,Nov-Feb,143,169,2024-02-15,5,Rohan,rohan@example.com,"Beaches, Historical",Male,1,0
+346,276,904,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.591070676890291,Nov-Feb,189,436,2024-03-20,5,Rohan,rohan@example.com,"Beaches, Historical",Male,1,0
+346,276,904,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.591070676890291,Nov-Feb,237,576,2024-03-20,1,Rohan,rohan@example.com,"Beaches, Historical",Male,1,0
+346,276,904,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.591070676890291,Nov-Feb,898,75,2024-01-01,3,Rohan,rohan@example.com,"Beaches, Historical",Male,1,0
+347,776,363,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.459363313306993,Nov-Feb,118,152,2024-01-01,2,Anika,anika@example.com,"City, Historical",Female,1,0
+349,746,778,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.059361289382425,Nov-Feb,431,951,2024-02-15,5,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+349,746,778,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.059361289382425,Nov-Feb,547,429,2024-01-01,5,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+349,746,778,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.059361289382425,Nov-Feb,695,365,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+352,677,673,2,Incredible monument!,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,434,288,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,2,2
+353,344,310,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.162324692301334,Sep-Mar,816,948,2024-03-20,1,Vivaan,vivaan@example.com,"Beaches, Historical",Male,2,0
+354,346,496,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,426,333,2024-03-20,1,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+356,701,233,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.814028636189173,Nov-Feb,806,120,2024-02-15,5,Aarav,aarav@example.com,"Nature, Adventure",Male,1,1
+357,52,73,1,A historical wonder,Goa Beaches,Goa,Beach,8.298754590990846,Nov-Mar,440,315,2024-02-15,1,Aanya,aanya@example.com,"Beaches, Historical",Female,1,1
+359,827,659,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.377495779286125,Nov-Mar,531,969,2024-03-20,3,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+360,374,230,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.27098132194643,Sep-Mar,627,582,2024-03-20,3,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+361,113,959,5,Incredible monument!,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,998,660,2024-02-15,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,1
+363,867,397,4,A historical wonder,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,750,85,2024-03-20,3,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+364,123,259,4,Incredible monument!,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,272,336,2024-02-15,4,Vivaan,vivaan@example.com,"Beaches, Historical",Male,1,0
+364,123,259,4,Incredible monument!,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,273,879,2024-03-20,5,Vivaan,vivaan@example.com,"Beaches, Historical",Male,1,0
+365,195,565,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.09297245471366,Apr-Jun,954,106,2024-03-20,5,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,1
+366,451,242,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.948981237202266,Nov-Feb,439,459,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+367,969,79,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,205,493,2024-01-01,4,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,0
+368,608,367,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,142,126,2024-01-01,4,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+368,608,367,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,203,912,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+368,608,367,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,600,408,2024-03-20,3,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+368,608,367,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,867,660,2024-03-20,5,Aanya,aanya@example.com,"Beaches, Historical",Female,1,0
+369,354,165,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.760694703272286,Sep-Mar,251,519,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,0
+370,141,216,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.618133331669091,Nov-Feb,741,112,2024-03-20,1,Meera,meera@example.com,"City, Historical",Female,1,2
+371,405,718,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,457,555,2024-01-01,1,Rohan,rohan@example.com,"Beaches, Historical",Male,2,1
+371,405,718,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,588,723,2024-03-20,4,Rohan,rohan@example.com,"Beaches, Historical",Male,2,1
+372,24,191,3,A historical wonder,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,639,389,2024-03-20,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+373,384,934,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,101,51,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+373,384,934,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,687,791,2024-03-20,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+373,384,934,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,731,36,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+373,384,934,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,976,202,2024-01-01,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+374,8,322,3,Loved the beaches!,Jaipur City,Rajasthan,City,9.4587045393854,Oct-Mar,833,618,2024-02-15,5,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+374,8,322,3,Loved the beaches!,Jaipur City,Rajasthan,City,9.4587045393854,Oct-Mar,978,424,2024-03-20,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+375,907,340,3,A historical wonder,Goa Beaches,Goa,Beach,8.06914958687841,Nov-Mar,965,645,2024-02-15,2,Diya,diya@example.com,"Beaches, Historical",Female,1,0
+377,718,174,5,Loved the beaches!,Jaipur City,Rajasthan,City,9.203460228257162,Oct-Mar,622,784,2024-01-01,1,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+377,718,174,5,Loved the beaches!,Jaipur City,Rajasthan,City,9.203460228257162,Oct-Mar,877,175,2024-01-01,2,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+379,457,305,5,Incredible monument!,Goa Beaches,Goa,Beach,9.348468751483985,Nov-Mar,765,806,2024-03-20,1,Aanya,aanya@example.com,"Nature, Adventure",Female,1,0
+380,913,288,5,Loved the beaches!,Jaipur City,Rajasthan,City,7.58801460622224,Oct-Mar,117,158,2024-03-20,3,Isha,isha@example.com,"City, Historical",Female,1,1
+380,913,288,5,Loved the beaches!,Jaipur City,Rajasthan,City,7.58801460622224,Oct-Mar,407,958,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,1,1
+381,359,476,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.832207353651939,Sep-Mar,32,114,2024-02-15,1,Anika,anika@example.com,"Nature, Adventure",Female,1,0
+381,359,476,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.832207353651939,Sep-Mar,861,987,2024-03-20,3,Anika,anika@example.com,"Nature, Adventure",Female,1,0
+383,108,364,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.180179995253692,Oct-Mar,947,262,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,2,2
+384,458,973,2,A historical wonder,Jaipur City,Rajasthan,City,9.04884504620765,Oct-Mar,804,628,2024-03-20,3,Kavya,kavya@example.com,"Beaches, Historical",Female,1,2
+385,471,694,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.431015219195524,Nov-Feb,785,650,2024-02-15,2,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+387,898,222,1,A historical wonder,Jaipur City,Rajasthan,City,8.311533772217603,Oct-Mar,73,223,2024-01-01,4,Rohan,rohan@example.com,"City, Historical",Male,1,1
+388,742,218,2,Incredible monument!,Goa Beaches,Goa,Beach,8.532765536915521,Nov-Mar,213,258,2024-03-20,1,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+388,742,218,2,Incredible monument!,Goa Beaches,Goa,Beach,8.532765536915521,Nov-Mar,230,484,2024-02-15,3,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+389,80,498,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168852535996,Apr-Jun,530,507,2024-02-15,3,Dhruv,dhruv@example.com,"City, Historical",Male,1,0
+389,80,498,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168852535996,Apr-Jun,732,913,2024-03-20,1,Dhruv,dhruv@example.com,"City, Historical",Male,1,0
+390,479,378,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.432522163463709,Sep-Mar,844,398,2024-01-01,2,Isha,isha@example.com,"City, Historical",Female,2,1
+390,479,378,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.432522163463709,Sep-Mar,926,881,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,2,1
+391,241,745,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.668642704912232,Nov-Feb,214,386,2024-01-01,3,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+391,241,745,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.668642704912232,Nov-Feb,666,171,2024-03-20,4,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+391,241,745,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.668642704912232,Nov-Feb,935,114,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+392,165,961,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.554650204523121,Apr-Jun,727,355,2024-01-01,2,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+393,351,283,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,360,952,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,1,1
+393,351,283,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,369,227,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,1,1
+393,351,283,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,968,100,2024-02-15,3,Anika,anika@example.com,"Beaches, Historical",Female,1,1
+395,501,323,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.43779797890401,Nov-Feb,105,922,2024-03-20,2,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+397,824,801,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.206043310589514,Sep-Mar,413,209,2024-02-15,5,Isha,isha@example.com,"City, Historical",Female,2,0
+398,146,216,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,741,112,2024-03-20,1,Meera,meera@example.com,"City, Historical",Female,1,2
+399,538,184,5,A historical wonder,Jaipur City,Rajasthan,City,8.61290957770994,Oct-Mar,2,532,2024-02-15,5,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+399,538,184,5,A historical wonder,Jaipur City,Rajasthan,City,8.61290957770994,Oct-Mar,528,394,2024-03-20,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+399,538,184,5,A historical wonder,Jaipur City,Rajasthan,City,8.61290957770994,Oct-Mar,676,878,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+399,538,184,5,A historical wonder,Jaipur City,Rajasthan,City,8.61290957770994,Oct-Mar,693,485,2024-03-20,1,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+400,463,104,2,Incredible monument!,Jaipur City,Rajasthan,City,8.981270231292,Oct-Mar,576,635,2024-03-20,1,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+401,714,291,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.655670235424626,Sep-Mar,94,675,2024-01-01,1,Arjun,arjun@example.com,"City, Historical",Male,2,1
+401,714,291,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.655670235424626,Sep-Mar,860,732,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,1
+403,969,890,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,112,655,2024-01-01,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,0
+404,524,107,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.207456170247866,Sep-Mar,85,130,2024-01-01,5,Riya,riya@example.com,"Nature, Adventure",Female,1,1
+405,225,671,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.793334588772431,Apr-Jun,99,94,2024-03-20,2,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,2
+407,374,629,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.27098132194643,Sep-Mar,858,110,2024-03-20,5,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+408,136,268,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.15356207947505,Nov-Feb,899,757,2024-02-15,1,Meera,meera@example.com,"Beaches, Historical",Female,1,1
+409,795,537,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,76,804,2024-01-01,5,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+409,795,537,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,195,612,2024-03-20,2,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+409,795,537,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,286,287,2024-01-01,1,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+409,795,537,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,395,562,2024-02-15,2,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+410,315,15,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,173,222,2024-02-15,1,Karan,karan@example.com,"City, Historical",Male,1,2
+410,315,15,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,257,701,2024-02-15,2,Karan,karan@example.com,"City, Historical",Male,1,2
+410,315,15,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,734,481,2024-02-15,4,Karan,karan@example.com,"City, Historical",Male,1,2
+411,795,259,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,272,336,2024-02-15,4,Vivaan,vivaan@example.com,"Beaches, Historical",Male,1,0
+411,795,259,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,273,879,2024-03-20,5,Vivaan,vivaan@example.com,"Beaches, Historical",Male,1,0
+412,634,872,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.33060225072883,Sep-Mar,875,782,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,1
+414,323,360,5,A historical wonder,Jaipur City,Rajasthan,City,8.130587468948864,Oct-Mar,762,555,2024-03-20,2,Isha,isha@example.com,"City, Historical",Female,2,2
+416,318,26,5,Loved the beaches!,Jaipur City,Rajasthan,City,7.79913244942954,Oct-Mar,780,952,2024-03-20,5,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,0
+417,799,814,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,160,181,2024-01-01,4,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+417,799,814,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,210,853,2024-03-20,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+417,799,814,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,654,137,2024-03-20,1,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+418,106,708,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.494823560399388,Nov-Feb,46,127,2024-01-01,4,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+418,106,708,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.494823560399388,Nov-Feb,344,395,2024-02-15,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+419,863,503,2,Loved the beaches!,Jaipur City,Rajasthan,City,7.5288565248227135,Oct-Mar,276,926,2024-03-20,5,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,2
+419,863,503,2,Loved the beaches!,Jaipur City,Rajasthan,City,7.5288565248227135,Oct-Mar,363,139,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,2
+420,456,215,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.509850241166378,Nov-Feb,429,242,2024-03-20,5,Riya,riya@example.com,"Nature, Adventure",Female,1,0
+422,826,509,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.277156854345177,Nov-Feb,869,849,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,0
+423,153,148,3,A historical wonder,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,134,301,2024-02-15,2,Rohan,rohan@example.com,"Beaches, Historical",Male,2,1
+423,153,148,3,A historical wonder,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,634,368,2024-01-01,4,Rohan,rohan@example.com,"Beaches, Historical",Male,2,1
+423,153,148,3,A historical wonder,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,807,176,2024-03-20,1,Rohan,rohan@example.com,"Beaches, Historical",Male,2,1
+425,893,970,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.375786034039642,Oct-Mar,730,270,2024-01-01,5,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,0
+427,718,473,5,Incredible monument!,Jaipur City,Rajasthan,City,9.203460228257162,Oct-Mar,479,443,2024-02-15,5,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,2
+429,876,463,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.796715429177867,Nov-Feb,44,10,2024-02-15,5,Karan,karan@example.com,"Beaches, Historical",Male,1,2
+429,876,463,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.796715429177867,Nov-Feb,416,204,2024-02-15,1,Karan,karan@example.com,"Beaches, Historical",Male,1,2
+430,256,852,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.403655361533389,Nov-Feb,74,874,2024-02-15,5,Dhruv,dhruv@example.com,"City, Historical",Male,2,2
+430,256,852,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.403655361533389,Nov-Feb,252,79,2024-03-20,4,Dhruv,dhruv@example.com,"City, Historical",Male,2,2
+431,414,431,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.41852933200488,Sep-Mar,77,621,2024-02-15,4,Arjun,arjun@example.com,"Nature, Adventure",Male,1,1
+431,414,431,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.41852933200488,Sep-Mar,856,97,2024-01-01,4,Arjun,arjun@example.com,"Nature, Adventure",Male,1,1
+432,899,635,1,A historical wonder,Kerala Backwaters,Kerala,Nature,8.575304720464212,Sep-Mar,537,803,2024-03-20,4,Arjun,arjun@example.com,"Nature, Adventure",Male,1,0
+433,83,950,3,Incredible monument!,Jaipur City,Rajasthan,City,9.25520276869782,Oct-Mar,690,537,2024-03-20,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,0
+435,123,273,4,A historical wonder,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,371,319,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,1
+436,640,554,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714714967838,Apr-Jun,49,933,2024-01-01,1,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+436,640,554,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714714967838,Apr-Jun,489,529,2024-03-20,4,Kavya,kavya@example.com,"Nature, Adventure",Female,1,2
+437,84,754,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.33374854303011,Sep-Mar,260,555,2024-02-15,1,Aditya,aditya@example.com,"Beaches, Historical",Male,2,2
+437,84,754,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.33374854303011,Sep-Mar,581,306,2024-02-15,2,Aditya,aditya@example.com,"Beaches, Historical",Male,2,2
+438,137,721,2,A historical wonder,Goa Beaches,Goa,Beach,8.863570277264008,Nov-Mar,483,356,2024-03-20,4,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,1
+440,914,945,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.285417260653366,Sep-Mar,697,839,2024-01-01,3,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+441,507,101,3,A historical wonder,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,668,537,2024-02-15,4,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+441,507,101,3,A historical wonder,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,868,984,2024-01-01,3,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+442,663,399,2,Incredible monument!,Jaipur City,Rajasthan,City,8.822604311521562,Oct-Mar,7,953,2024-01-01,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+443,94,708,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.678657960181018,Sep-Mar,46,127,2024-01-01,4,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+443,94,708,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.678657960181018,Sep-Mar,344,395,2024-02-15,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+444,115,548,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793179837,Apr-Jun,258,880,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,1,0
+446,586,322,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,833,618,2024-02-15,5,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+446,586,322,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,978,424,2024-03-20,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+447,138,989,4,A historical wonder,Jaipur City,Rajasthan,City,9.195643436953048,Oct-Mar,5,389,2024-02-15,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+447,138,989,4,A historical wonder,Jaipur City,Rajasthan,City,9.195643436953048,Oct-Mar,12,779,2024-03-20,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+448,794,306,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.531159787998941,Sep-Mar,54,223,2024-03-20,3,Meera,meera@example.com,"City, Historical",Female,2,1
+448,794,306,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.531159787998941,Sep-Mar,469,102,2024-01-01,3,Meera,meera@example.com,"City, Historical",Female,2,1
+450,419,303,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,82,849,2024-01-01,1,Riya,riya@example.com,"City, Historical",Female,2,2
+450,419,303,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,718,128,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,2,2
+451,140,620,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.907807740975244,Apr-Jun,387,624,2024-03-20,4,Aditya,aditya@example.com,"Nature, Adventure",Male,2,0
+452,282,563,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.888987617087139,Nov-Mar,126,403,2024-03-20,3,Karan,karan@example.com,"Nature, Adventure",Male,2,2
+453,497,956,5,A historical wonder,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,315,597,2024-03-20,3,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,0
+454,69,212,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.251449511759905,Sep-Mar,824,42,2024-02-15,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,0
+456,336,976,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.26879230848542,Nov-Feb,97,611,2024-01-01,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+456,336,976,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.26879230848542,Nov-Feb,246,683,2024-03-20,3,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+457,161,579,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.738547101644033,Nov-Feb,346,211,2024-01-01,4,Aarav,aarav@example.com,"City, Historical",Male,2,1
+458,630,252,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.26454156504302,Apr-Jun,266,618,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+458,630,252,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.26454156504302,Apr-Jun,282,504,2024-03-20,1,Arjun,arjun@example.com,"City, Historical",Male,2,2
+458,630,252,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.26454156504302,Apr-Jun,368,997,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+459,632,474,3,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,225,899,2024-03-20,1,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+459,632,474,3,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,573,273,2024-03-20,4,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+459,632,474,3,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,967,24,2024-01-01,5,Ritvik,ritvik@example.com,"City, Historical",Male,2,2
+460,116,976,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.636073233725135,Nov-Feb,97,611,2024-01-01,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+460,116,976,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.636073233725135,Nov-Feb,246,683,2024-03-20,3,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+461,80,468,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168852535996,Apr-Jun,632,159,2024-02-15,5,Aditya,aditya@example.com,"City, Historical",Male,1,0
+463,806,684,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,385,281,2024-01-01,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+463,806,684,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,570,772,2024-03-20,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+463,806,684,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,989,142,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,1,0
+467,491,20,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.20803233304684,Nov-Feb,472,311,2024-01-01,5,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+467,491,20,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.20803233304684,Nov-Feb,799,674,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+468,93,686,2,A historical wonder,Jaipur City,Rajasthan,City,9.116298424696906,Oct-Mar,107,180,2024-02-15,5,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,2
+468,93,686,2,A historical wonder,Jaipur City,Rajasthan,City,9.116298424696906,Oct-Mar,685,544,2024-01-01,1,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,2
+470,44,318,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.844208014043545,Sep-Mar,406,372,2024-01-01,3,Diya,diya@example.com,"City, Historical",Female,2,0
+470,44,318,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.844208014043545,Sep-Mar,597,191,2024-03-20,2,Diya,diya@example.com,"City, Historical",Female,2,0
+472,587,399,2,Incredible monument!,Goa Beaches,Goa,Beach,7.768523623167793,Nov-Mar,7,953,2024-01-01,2,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+473,796,893,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.243698788707544,Nov-Feb,703,146,2024-01-01,3,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+474,795,418,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,664,373,2024-01-01,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+475,611,388,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.342123928378385,Nov-Feb,801,852,2024-03-20,4,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+477,223,281,4,A historical wonder,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,771,228,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,2
+480,295,725,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912303714,Apr-Jun,247,480,2024-01-01,5,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+480,295,725,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912303714,Apr-Jun,354,29,2024-03-20,1,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+483,123,798,2,A historical wonder,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,265,394,2024-01-01,3,Rohan,rohan@example.com,"City, Historical",Male,2,1
+483,123,798,2,A historical wonder,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,742,975,2024-01-01,5,Rohan,rohan@example.com,"City, Historical",Male,2,1
+484,448,524,5,Incredible monument!,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,115,476,2024-01-01,5,Diya,diya@example.com,"Nature, Adventure",Female,2,2
+486,456,968,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.509850241166378,Nov-Feb,970,958,2024-01-01,2,Diya,diya@example.com,"Nature, Adventure",Female,1,2
+486,456,968,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.509850241166378,Nov-Feb,990,567,2024-03-20,5,Diya,diya@example.com,"Nature, Adventure",Female,1,2
+487,818,60,3,Incredible monument!,Jaipur City,Rajasthan,City,8.385706717073933,Oct-Mar,87,320,2024-03-20,4,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+487,818,60,3,Incredible monument!,Jaipur City,Rajasthan,City,8.385706717073933,Oct-Mar,852,421,2024-03-20,2,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+489,261,452,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.083688761192684,Nov-Feb,887,991,2024-02-15,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+490,448,628,2,Incredible monument!,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,80,631,2024-02-15,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+490,448,628,2,Incredible monument!,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,412,35,2024-01-01,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+491,677,352,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,18,149,2024-03-20,5,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+491,677,352,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,359,643,2024-02-15,1,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+491,677,352,3,Loved the beaches!,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,958,261,2024-01-01,2,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+492,918,82,2,A historical wonder,Jaipur City,Rajasthan,City,9.371201913686736,Oct-Mar,652,360,2024-01-01,4,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,0
+495,348,386,4,A historical wonder,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,811,290,2024-01-01,4,Hitesh,hitesh@example.com,"Nature, Adventure",Male,2,0
+497,488,281,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.654607164170207,Oct-Mar,771,228,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,2
+498,235,735,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.734064597506109,Apr-Jun,280,7,2024-01-01,3,Riya,riya@example.com,"City, Historical",Female,1,0
+499,748,607,1,Incredible monument!,Jaipur City,Rajasthan,City,8.719936425969232,Oct-Mar,335,552,2024-02-15,5,Aarav,aarav@example.com,"Beaches, Historical",Male,1,0
+499,748,607,1,Incredible monument!,Jaipur City,Rajasthan,City,8.719936425969232,Oct-Mar,770,573,2024-02-15,2,Aarav,aarav@example.com,"Beaches, Historical",Male,1,0
+500,815,473,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.220824441474456,Apr-Jun,479,443,2024-02-15,5,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,2
+501,501,53,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.43779797890401,Nov-Feb,414,938,2024-03-20,5,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,2
+502,845,725,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.669449269625428,Apr-Jun,247,480,2024-01-01,5,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+502,845,725,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.669449269625428,Apr-Jun,354,29,2024-03-20,1,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+504,731,576,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.20644321253904,Nov-Feb,831,578,2024-03-20,5,Meera,meera@example.com,"City, Historical",Female,2,0
+506,910,752,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477200543,Apr-Jun,24,420,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+506,910,752,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477200543,Apr-Jun,496,203,2024-01-01,5,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+506,910,752,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477200543,Apr-Jun,975,799,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+509,277,568,5,Loved the beaches!,Goa Beaches,Goa,Beach,8.694303252963497,Nov-Mar,942,805,2024-03-20,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+510,740,679,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891738676694,Apr-Jun,554,447,2024-02-15,5,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,1
+510,740,679,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891738676694,Apr-Jun,895,507,2024-01-01,4,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,1
+510,740,679,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.263891738676694,Apr-Jun,966,852,2024-03-20,1,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,1
+512,547,295,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.645510418904573,Nov-Mar,52,916,2024-01-01,1,Hitesh,hitesh@example.com,"Beaches, Historical",Male,1,0
+513,661,590,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.349513600175449,Nov-Feb,797,171,2024-02-15,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,2
+514,31,418,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.534267493855534,Nov-Feb,664,373,2024-01-01,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+516,695,724,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.288646088702306,Apr-Jun,219,161,2024-03-20,5,Kavya,kavya@example.com,"Beaches, Historical",Female,2,2
+518,753,126,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.594748337394,Oct-Mar,314,983,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,1,0
+519,879,381,3,A historical wonder,Kerala Backwaters,Kerala,Nature,8.309631133912779,Sep-Mar,922,432,2024-01-01,5,Meera,meera@example.com,"City, Historical",Female,2,0
+520,917,146,3,Incredible monument!,Goa Beaches,Goa,Beach,7.545108072258168,Nov-Mar,182,709,2024-02-15,2,Meera,meera@example.com,"Nature, Adventure",Female,1,1
+521,546,44,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.99406731089834,Nov-Feb,93,230,2024-03-20,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,2
+521,546,44,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.99406731089834,Nov-Feb,641,670,2024-02-15,5,Arjun,arjun@example.com,"Nature, Adventure",Male,2,2
+522,247,873,3,A historical wonder,Goa Beaches,Goa,Beach,9.153509849210488,Nov-Mar,626,135,2024-02-15,2,Anika,anika@example.com,"City, Historical",Female,2,0
+523,320,863,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.353685271308148,Apr-Jun,178,135,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,1,2
+524,380,459,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.658172608842527,Apr-Jun,625,967,2024-01-01,2,Meera,meera@example.com,"City, Historical",Female,1,0
+525,780,386,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.291685937704914,Apr-Jun,811,290,2024-01-01,4,Hitesh,hitesh@example.com,"Nature, Adventure",Male,2,0
+526,194,522,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.764994888805412,Sep-Mar,11,97,2024-02-15,2,Kavya,kavya@example.com,"City, Historical",Female,2,0
+528,322,925,3,A historical wonder,Goa Beaches,Goa,Beach,7.875971584786738,Nov-Mar,776,198,2024-02-15,3,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,2
+530,988,565,1,Loved the beaches!,Jaipur City,Rajasthan,City,7.96234787124329,Oct-Mar,954,106,2024-03-20,5,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,1
+531,409,627,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.695324251011531,Sep-Mar,979,499,2024-01-01,2,Rohan,rohan@example.com,"City, Historical",Male,2,0
+535,335,126,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104496576,Apr-Jun,314,983,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,1,0
+536,945,740,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.537510610841785,Apr-Jun,971,692,2024-02-15,3,Isha,isha@example.com,"Nature, Adventure",Female,1,1
+537,91,273,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.775155892425978,Nov-Feb,371,319,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,1
+540,351,954,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,224,518,2024-02-15,5,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+540,351,954,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,462,166,2024-03-20,4,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+540,351,954,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.488999182063221,Nov-Feb,579,584,2024-03-20,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+541,996,878,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,34,732,2024-01-01,1,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+541,996,878,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,243,421,2024-03-20,3,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+541,996,878,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,401,239,2024-02-15,1,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+541,996,878,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,584,872,2024-02-15,4,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+541,996,878,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,667,661,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+542,176,80,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,304,873,2024-01-01,1,Diya,diya@example.com,"Nature, Adventure",Female,1,2
+542,176,80,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,343,49,2024-01-01,2,Diya,diya@example.com,"Nature, Adventure",Female,1,2
+542,176,80,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,383,648,2024-02-15,3,Diya,diya@example.com,"Nature, Adventure",Female,1,2
+543,623,805,4,A historical wonder,Jaipur City,Rajasthan,City,7.809114532022525,Oct-Mar,127,428,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+548,410,608,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239628784924,Apr-Jun,181,694,2024-01-01,1,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,0
+549,297,70,3,A historical wonder,Goa Beaches,Goa,Beach,7.633292996550987,Nov-Mar,300,41,2024-03-20,3,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+550,915,700,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.85112195819902,Apr-Jun,717,535,2024-03-20,4,Aarav,aarav@example.com,"Beaches, Historical",Male,1,2
+551,210,188,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.277611273067814,Apr-Jun,688,387,2024-01-01,5,Kavya,kavya@example.com,"Nature, Adventure",Female,1,0
+552,812,602,5,A historical wonder,Goa Beaches,Goa,Beach,9.006784740288401,Nov-Mar,779,572,2024-02-15,5,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+553,605,128,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.015692413525752,Apr-Jun,311,330,2024-02-15,3,Rohan,rohan@example.com,"Nature, Adventure",Male,2,2
+555,639,627,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.081925622089122,Sep-Mar,979,499,2024-01-01,2,Rohan,rohan@example.com,"City, Historical",Male,2,0
+556,50,628,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,80,631,2024-02-15,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+556,50,628,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,412,35,2024-01-01,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+558,60,180,2,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276209098,Apr-Jun,193,960,2024-01-01,3,Saanvi,saanvi@example.com,"City, Historical",Female,1,2
+560,493,256,5,Loved the beaches!,Jaipur City,Rajasthan,City,8.878936494411294,Oct-Mar,145,242,2024-01-01,3,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,1
+561,868,437,3,A historical wonder,Jaipur City,Rajasthan,City,8.498230857041534,Oct-Mar,418,203,2024-01-01,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,1
+561,868,437,3,A historical wonder,Jaipur City,Rajasthan,City,8.498230857041534,Oct-Mar,896,632,2024-02-15,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,1
+562,967,51,1,Incredible monument!,Goa Beaches,Goa,Beach,7.528727096669634,Nov-Mar,192,951,2024-03-20,5,Aarav,aarav@example.com,"City, Historical",Male,1,1
+563,511,613,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.219575248565713,Nov-Feb,504,146,2024-03-20,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+564,632,129,5,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,28,586,2024-01-01,3,Aarav,aarav@example.com,"City, Historical",Male,2,1
+564,632,129,5,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,130,399,2024-01-01,2,Aarav,aarav@example.com,"City, Historical",Male,2,1
+564,632,129,5,A historical wonder,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,995,240,2024-02-15,3,Aarav,aarav@example.com,"City, Historical",Male,2,1
+565,150,636,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.863872329774836,Apr-Jun,83,139,2024-02-15,5,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+565,150,636,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.863872329774836,Apr-Jun,941,115,2024-02-15,3,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+567,52,784,2,A historical wonder,Goa Beaches,Goa,Beach,8.298754590990846,Nov-Mar,306,904,2024-03-20,1,Aarav,aarav@example.com,"Beaches, Historical",Male,2,1
+570,502,945,5,A historical wonder,Goa Beaches,Goa,Beach,9.314545773276503,Nov-Mar,697,839,2024-01-01,3,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+571,640,579,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714714967838,Apr-Jun,346,211,2024-01-01,4,Aarav,aarav@example.com,"City, Historical",Male,2,1
+572,914,408,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.285417260653366,Sep-Mar,331,403,2024-01-01,2,Ishaan,ishaan@example.com,"City, Historical",Male,2,0
+575,484,325,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,607,525,2024-01-01,4,Hitesh,hitesh@example.com,"Beaches, Historical",Male,1,2
+575,484,325,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,903,756,2024-03-20,4,Hitesh,hitesh@example.com,"Beaches, Historical",Male,1,2
+576,134,35,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,119,91,2024-02-15,5,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+576,134,35,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,430,977,2024-01-01,4,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+576,134,35,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,566,573,2024-02-15,2,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+578,998,287,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.308435430056575,Oct-Mar,262,253,2024-01-01,4,Isha,isha@example.com,"Nature, Adventure",Female,1,2
+580,384,320,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,443,168,2024-02-15,1,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+580,384,320,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,606,220,2024-03-20,4,Aanya,aanya@example.com,"Nature, Adventure",Female,2,0
+584,902,295,2,Loved the beaches!,Goa Beaches,Goa,Beach,9.115849499250787,Nov-Mar,52,916,2024-01-01,1,Hitesh,hitesh@example.com,"Beaches, Historical",Male,1,0
+585,734,929,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.248600725902943,Sep-Mar,810,770,2024-03-20,3,Aarav,aarav@example.com,"Nature, Adventure",Male,1,1
+586,479,882,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.432522163463709,Sep-Mar,57,814,2024-03-20,1,Vivaan,vivaan@example.com,"City, Historical",Male,1,1
+587,682,26,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.57790096253945,Nov-Mar,780,952,2024-03-20,5,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,0
+588,14,890,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,112,655,2024-01-01,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,1,0
+592,326,647,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.206421939119537,Nov-Feb,277,366,2024-01-01,3,Riya,riya@example.com,"Nature, Adventure",Female,2,1
+592,326,647,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.206421939119537,Nov-Feb,633,531,2024-03-20,4,Riya,riya@example.com,"Nature, Adventure",Female,2,1
+592,326,647,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.206421939119537,Nov-Feb,663,748,2024-03-20,1,Riya,riya@example.com,"Nature, Adventure",Female,2,1
+593,696,819,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.627961321716496,Nov-Feb,177,429,2024-03-20,1,Meera,meera@example.com,"City, Historical",Female,1,1
+594,699,462,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.6569626144692755,Sep-Mar,128,218,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,1,1
+595,278,623,3,Incredible monument!,Jaipur City,Rajasthan,City,9.120385789350228,Oct-Mar,572,470,2024-02-15,1,Isha,isha@example.com,"Nature, Adventure",Female,1,0
+596,688,814,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.056619012437265,Oct-Mar,160,181,2024-01-01,4,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+596,688,814,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.056619012437265,Oct-Mar,210,853,2024-03-20,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+596,688,814,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.056619012437265,Oct-Mar,654,137,2024-03-20,1,Aditya,aditya@example.com,"Beaches, Historical",Male,1,2
+598,974,15,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.686987873824284,Sep-Mar,173,222,2024-02-15,1,Karan,karan@example.com,"City, Historical",Male,1,2
+598,974,15,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.686987873824284,Sep-Mar,257,701,2024-02-15,2,Karan,karan@example.com,"City, Historical",Male,1,2
+598,974,15,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.686987873824284,Sep-Mar,734,481,2024-02-15,4,Karan,karan@example.com,"City, Historical",Male,1,2
+599,154,752,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.48479754719289,Sep-Mar,24,420,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+599,154,752,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.48479754719289,Sep-Mar,496,203,2024-01-01,5,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+599,154,752,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.48479754719289,Sep-Mar,975,799,2024-03-20,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+600,118,458,4,A historical wonder,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,534,377,2024-03-20,2,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,2
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,39,884,2024-03-20,2,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,53,872,2024-02-15,2,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,184,199,2024-01-01,4,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,841,676,2024-01-01,1,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,901,55,2024-01-01,5,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+601,965,234,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,924,42,2024-03-20,1,Ritvik,ritvik@example.com,"City, Historical",Male,1,0
+604,420,233,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518480867,Apr-Jun,806,120,2024-02-15,5,Aarav,aarav@example.com,"Nature, Adventure",Male,1,1
+605,797,805,5,Loved the beaches!,Goa Beaches,Goa,Beach,9.120638441373126,Nov-Mar,127,428,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+608,395,847,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809066051,Apr-Jun,386,931,2024-02-15,4,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+610,106,327,2,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.494823560399388,Nov-Feb,79,175,2024-01-01,3,Pooja,pooja@example.com,"City, Historical",Female,1,1
+611,757,821,2,Loved the beaches!,Goa Beaches,Goa,Beach,7.644463430707246,Nov-Mar,367,469,2024-01-01,3,Arjun,arjun@example.com,"Nature, Adventure",Male,1,2
+611,757,821,2,Loved the beaches!,Goa Beaches,Goa,Beach,7.644463430707246,Nov-Mar,837,410,2024-03-20,5,Arjun,arjun@example.com,"Nature, Adventure",Male,1,2
+616,779,485,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.861507015552508,Sep-Mar,938,315,2024-02-15,5,Aanya,aanya@example.com,"Nature, Adventure",Female,1,0
+617,652,798,2,Loved the beaches!,Goa Beaches,Goa,Beach,7.956162812949001,Nov-Mar,265,394,2024-01-01,3,Rohan,rohan@example.com,"City, Historical",Male,2,1
+617,652,798,2,Loved the beaches!,Goa Beaches,Goa,Beach,7.956162812949001,Nov-Mar,742,975,2024-01-01,5,Rohan,rohan@example.com,"City, Historical",Male,2,1
+618,236,672,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.42477279242355,Nov-Feb,185,250,2024-02-15,1,Riya,riya@example.com,"City, Historical",Female,2,0
+618,236,672,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.42477279242355,Nov-Feb,913,21,2024-01-01,3,Riya,riya@example.com,"City, Historical",Female,2,0
+619,273,165,2,Incredible monument!,Jaipur City,Rajasthan,City,9.324373462793442,Oct-Mar,251,519,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,0
+621,383,712,3,A historical wonder,Jaipur City,Rajasthan,City,8.70695511642636,Oct-Mar,759,476,2024-03-20,3,Diya,diya@example.com,"Beaches, Historical",Female,2,0
+623,530,24,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.135320166568894,Apr-Jun,199,272,2024-01-01,4,Karan,karan@example.com,"City, Historical",Male,1,2
+624,829,954,2,A historical wonder,Kerala Backwaters,Kerala,Nature,9.073371866855572,Sep-Mar,224,518,2024-02-15,5,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+624,829,954,2,A historical wonder,Kerala Backwaters,Kerala,Nature,9.073371866855572,Sep-Mar,462,166,2024-03-20,4,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+624,829,954,2,A historical wonder,Kerala Backwaters,Kerala,Nature,9.073371866855572,Sep-Mar,579,584,2024-03-20,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+625,891,863,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.223991095114595,Nov-Feb,178,135,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,1,2
+626,55,939,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629646730556,Apr-Jun,764,19,2024-02-15,3,Anika,anika@example.com,"City, Historical",Female,2,0
+628,11,468,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.17770928252728,Nov-Feb,632,159,2024-02-15,5,Aditya,aditya@example.com,"City, Historical",Male,1,0
+632,371,706,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.32089647558579,Nov-Feb,847,776,2024-01-01,2,Kavya,kavya@example.com,"Beaches, Historical",Female,2,0
+632,371,706,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.32089647558579,Nov-Feb,884,306,2024-02-15,2,Kavya,kavya@example.com,"Beaches, Historical",Female,2,0
+632,371,706,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.32089647558579,Nov-Feb,907,484,2024-01-01,1,Kavya,kavya@example.com,"Beaches, Historical",Female,2,0
+633,516,365,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.890656667652207,Nov-Feb,218,872,2024-02-15,3,Vivaan,vivaan@example.com,"Nature, Adventure",Male,1,1
+634,293,672,3,Incredible monument!,Jaipur City,Rajasthan,City,7.534360802624437,Oct-Mar,185,250,2024-02-15,1,Riya,riya@example.com,"City, Historical",Female,2,0
+634,293,672,3,Incredible monument!,Jaipur City,Rajasthan,City,7.534360802624437,Oct-Mar,913,21,2024-01-01,3,Riya,riya@example.com,"City, Historical",Female,2,0
+638,873,121,2,Loved the beaches!,Jaipur City,Rajasthan,City,9.231967797202106,Oct-Mar,197,945,2024-02-15,5,Isha,isha@example.com,"Beaches, Historical",Female,2,2
+638,873,121,2,Loved the beaches!,Jaipur City,Rajasthan,City,9.231967797202106,Oct-Mar,417,235,2024-03-20,2,Isha,isha@example.com,"Beaches, Historical",Female,2,2
+640,556,445,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.703776810764232,Nov-Feb,916,633,2024-01-01,2,Riya,riya@example.com,"Beaches, Historical",Female,2,1
+641,269,209,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.588087849193326,Sep-Mar,321,357,2024-03-20,4,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,1
+641,269,209,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.588087849193326,Sep-Mar,716,727,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,1
+642,983,531,3,A historical wonder,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,733,367,2024-01-01,4,Aanya,aanya@example.com,"City, Historical",Female,1,1
+644,123,551,1,Loved the beaches!,Jaipur City,Rajasthan,City,9.31595003961975,Oct-Mar,862,944,2024-01-01,1,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,2
+645,124,102,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.921320004258767,Sep-Mar,698,849,2024-02-15,2,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+645,124,102,5,A historical wonder,Kerala Backwaters,Kerala,Nature,7.921320004258767,Sep-Mar,708,511,2024-03-20,3,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+646,259,668,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.382675748307422,Sep-Mar,615,322,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,0
+647,334,653,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,102,423,2024-03-20,5,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+647,334,653,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,217,217,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+647,334,653,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,336,756,2024-03-20,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+647,334,653,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,409,413,2024-01-01,4,Aarav,aarav@example.com,"Nature, Adventure",Male,2,1
+648,511,292,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.219575248565713,Nov-Feb,474,775,2024-03-20,2,Rohan,rohan@example.com,"Beaches, Historical",Male,2,2
+650,547,828,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.645510418904573,Nov-Mar,256,434,2024-01-01,2,Pooja,pooja@example.com,"City, Historical",Female,2,2
+651,372,828,1,A historical wonder,Goa Beaches,Goa,Beach,7.824610910350504,Nov-Mar,256,434,2024-01-01,2,Pooja,pooja@example.com,"City, Historical",Female,2,2
+652,424,429,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.016517304482331,Sep-Mar,234,752,2024-03-20,4,Anika,anika@example.com,"City, Historical",Female,1,0
+653,752,608,1,Loved the beaches!,Goa Beaches,Goa,Beach,8.539108136038704,Nov-Mar,181,694,2024-01-01,1,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,0
+655,322,217,5,Incredible monument!,Goa Beaches,Goa,Beach,7.875971584786738,Nov-Mar,62,188,2024-02-15,2,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,1
+655,322,217,5,Incredible monument!,Goa Beaches,Goa,Beach,7.875971584786738,Nov-Mar,561,174,2024-03-20,4,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,1
+656,629,639,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.674024425319291,Sep-Mar,444,545,2024-03-20,5,Ishaan,ishaan@example.com,"City, Historical",Male,1,2
+657,703,331,5,A historical wonder,Jaipur City,Rajasthan,City,8.56369804176352,Oct-Mar,91,723,2024-01-01,2,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+658,160,452,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,887,991,2024-02-15,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+659,170,297,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982805962368,Apr-Jun,56,659,2024-02-15,2,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+660,408,92,3,A historical wonder,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,215,477,2024-02-15,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,0
+660,408,92,3,A historical wonder,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,309,101,2024-03-20,3,Tanvi,tanvi@example.com,"Nature, Adventure",Female,2,0
+662,174,377,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.360692114959477,Sep-Mar,939,835,2024-03-20,2,Isha,isha@example.com,"Nature, Adventure",Female,2,0
+663,614,574,5,A historical wonder,Kerala Backwaters,Kerala,Nature,9.003574785226348,Sep-Mar,956,326,2024-02-15,2,Aarav,aarav@example.com,"Beaches, Historical",Male,1,2
+664,47,220,4,Incredible monument!,Goa Beaches,Goa,Beach,7.726020724706562,Nov-Mar,721,606,2024-01-01,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+664,47,220,4,Incredible monument!,Goa Beaches,Goa,Beach,7.726020724706562,Nov-Mar,795,273,2024-03-20,5,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+665,364,165,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.029543990563425,Sep-Mar,251,519,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,0
+667,978,961,5,Incredible monument!,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,727,355,2024-01-01,2,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+668,681,426,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.748130652752925,Nov-Feb,261,966,2024-03-20,2,Anika,anika@example.com,"City, Historical",Female,1,1
+669,711,174,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,622,784,2024-01-01,1,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+669,711,174,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,877,175,2024-01-01,2,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+671,785,840,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.366933345133754,Apr-Jun,488,103,2024-02-15,5,Diya,diya@example.com,"City, Historical",Female,1,0
+676,14,953,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,557,421,2024-02-15,2,Riya,riya@example.com,"Nature, Adventure",Female,1,1
+677,109,677,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,162,954,2024-03-20,2,Vivaan,vivaan@example.com,"Nature, Adventure",Male,2,0
+677,109,677,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,613,239,2024-01-01,2,Vivaan,vivaan@example.com,"Nature, Adventure",Male,2,0
+677,109,677,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,932,195,2024-02-15,4,Vivaan,vivaan@example.com,"Nature, Adventure",Male,2,0
+678,217,258,1,A historical wonder,Goa Beaches,Goa,Beach,9.14476464169103,Nov-Mar,854,721,2024-02-15,1,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+679,54,755,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.116931496368345,Sep-Mar,920,344,2024-02-15,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,2
+680,645,936,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,183,159,2024-03-20,1,Aditya,aditya@example.com,"City, Historical",Male,1,0
+680,645,936,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,486,350,2024-03-20,1,Aditya,aditya@example.com,"City, Historical",Male,1,0
+680,645,936,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,955,346,2024-01-01,4,Aditya,aditya@example.com,"City, Historical",Male,1,0
+681,693,580,3,A historical wonder,Jaipur City,Rajasthan,City,8.397475308756675,Oct-Mar,9,890,2024-03-20,1,Riya,riya@example.com,"Beaches, Historical",Female,1,0
+683,198,100,3,Loved the beaches!,Jaipur City,Rajasthan,City,8.25589320047637,Oct-Mar,796,53,2024-01-01,3,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,1
+685,609,846,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.29568641738167,Sep-Mar,236,389,2024-02-15,2,Vivaan,vivaan@example.com,"City, Historical",Male,1,2
+685,609,846,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.29568641738167,Sep-Mar,678,974,2024-03-20,2,Vivaan,vivaan@example.com,"City, Historical",Male,1,2
+686,290,678,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186545996741,Apr-Jun,543,706,2024-03-20,3,Meera,meera@example.com,"City, Historical",Female,2,2
+687,391,324,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.937176476917816,Nov-Feb,29,38,2024-02-15,5,Rohan,rohan@example.com,"City, Historical",Male,1,1
+688,555,556,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,98,387,2024-02-15,2,Aditya,aditya@example.com,"Beaches, Historical",Male,1,0
+690,629,797,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.674024425319291,Sep-Mar,850,948,2024-01-01,2,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,0
+690,629,797,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.674024425319291,Sep-Mar,953,546,2024-02-15,4,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,0
+691,851,520,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.33544112557844,Nov-Feb,675,389,2024-03-20,4,Isha,isha@example.com,"Beaches, Historical",Female,2,0
+692,391,671,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.937176476917816,Nov-Feb,99,94,2024-03-20,2,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,2
+694,475,696,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.439314463538002,Apr-Jun,357,307,2024-03-20,3,Hitesh,hitesh@example.com,"City, Historical",Male,1,1
+696,455,916,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.889359194048391,Apr-Jun,165,753,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+696,455,916,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.889359194048391,Apr-Jun,642,627,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+698,954,855,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.192148287990324,Sep-Mar,92,371,2024-02-15,5,Pooja,pooja@example.com,"City, Historical",Female,1,1
+698,954,855,1,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.192148287990324,Sep-Mar,611,20,2024-02-15,1,Pooja,pooja@example.com,"City, Historical",Female,1,1
+699,169,163,1,A historical wonder,Kerala Backwaters,Kerala,Nature,7.686748942635202,Sep-Mar,436,58,2024-01-01,4,Diya,diya@example.com,"Beaches, Historical",Female,2,2
+700,333,160,1,Incredible monument!,Jaipur City,Rajasthan,City,7.632343966795443,Oct-Mar,116,96,2024-02-15,1,Aanya,aanya@example.com,"Beaches, Historical",Female,2,2
+701,61,184,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,2,532,2024-02-15,5,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+701,61,184,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,528,394,2024-03-20,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+701,61,184,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,676,878,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+701,61,184,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,693,485,2024-03-20,1,Ishaan,ishaan@example.com,"Beaches, Historical",Male,1,2
+703,386,594,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,89,340,2024-02-15,3,Tanvi,tanvi@example.com,"City, Historical",Female,1,0
+703,386,594,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,241,277,2024-01-01,1,Tanvi,tanvi@example.com,"City, Historical",Female,1,0
+703,386,594,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,403,285,2024-01-01,1,Tanvi,tanvi@example.com,"City, Historical",Female,1,0
+705,810,359,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053310539785,Apr-Jun,238,864,2024-01-01,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+705,810,359,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053310539785,Apr-Jun,254,678,2024-02-15,2,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+705,810,359,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.161053310539785,Apr-Jun,450,353,2024-03-20,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+706,890,454,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575412055,Apr-Jun,375,676,2024-03-20,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+706,890,454,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575412055,Apr-Jun,865,457,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+707,940,635,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.737707489631597,Apr-Jun,537,803,2024-03-20,4,Arjun,arjun@example.com,"Nature, Adventure",Male,1,0
+708,942,265,3,A historical wonder,Goa Beaches,Goa,Beach,8.702652455921308,Nov-Mar,775,731,2024-01-01,1,Dhruv,dhruv@example.com,"Beaches, Historical",Male,1,0
+709,64,779,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.995381521960635,Sep-Mar,441,799,2024-03-20,1,Diya,diya@example.com,"Nature, Adventure",Female,2,1
+710,211,351,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.188261257930963,Nov-Feb,198,636,2024-03-20,1,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+710,211,351,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.188261257930963,Nov-Feb,936,866,2024-03-20,1,Vivaan,vivaan@example.com,"City, Historical",Male,2,2
+711,343,469,4,A historical wonder,Jaipur City,Rajasthan,City,7.873481445510227,Oct-Mar,13,715,2024-01-01,3,Ishaan,ishaan@example.com,"Beaches, Historical",Male,2,0
+712,595,377,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.446618127599066,Apr-Jun,939,835,2024-03-20,2,Isha,isha@example.com,"Nature, Adventure",Female,2,0
+713,921,61,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.685684922550122,Nov-Feb,67,339,2024-01-01,5,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,2
+714,929,843,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.66318905277383,Sep-Mar,987,886,2024-03-20,1,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+715,334,168,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,447,932,2024-03-20,2,Riya,riya@example.com,"City, Historical",Female,1,2
+715,334,168,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,660,331,2024-03-20,5,Riya,riya@example.com,"City, Historical",Female,1,2
+715,334,168,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.710665370439624,Sep-Mar,766,301,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,1,2
+716,274,745,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,214,386,2024-01-01,3,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+716,274,745,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,666,171,2024-03-20,4,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+716,274,745,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,935,114,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,1,2
+717,500,934,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,101,51,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+717,500,934,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,687,791,2024-03-20,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+717,500,934,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,731,36,2024-02-15,2,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+717,500,934,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,976,202,2024-01-01,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+720,961,576,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.385107105120452,Nov-Feb,831,578,2024-03-20,5,Meera,meera@example.com,"City, Historical",Female,2,0
+723,526,948,4,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.798076955318615,Nov-Feb,122,1000,2024-02-15,3,Hitesh,hitesh@example.com,"City, Historical",Male,1,0
+725,67,468,3,Loved the beaches!,Goa Beaches,Goa,Beach,7.593468221686345,Nov-Mar,632,159,2024-02-15,5,Aditya,aditya@example.com,"City, Historical",Male,1,0
+726,94,225,2,A historical wonder,Kerala Backwaters,Kerala,Nature,7.678657960181018,Sep-Mar,950,64,2024-02-15,5,Isha,isha@example.com,"City, Historical",Female,2,0
+728,865,344,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748130234,Apr-Jun,90,565,2024-03-20,4,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+728,865,344,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748130234,Apr-Jun,420,859,2024-03-20,2,Ritvik,ritvik@example.com,"Nature, Adventure",Male,2,1
+729,608,158,1,A historical wonder,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,595,552,2024-01-01,4,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+729,608,158,1,A historical wonder,Jaipur City,Rajasthan,City,8.443802951781302,Oct-Mar,645,967,2024-03-20,2,Ishaan,ishaan@example.com,"Nature, Adventure",Male,2,1
+730,174,871,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.360692114959477,Sep-Mar,813,970,2024-03-20,5,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+731,618,303,1,Loved the beaches!,Jaipur City,Rajasthan,City,8.39215366577806,Oct-Mar,82,849,2024-01-01,1,Riya,riya@example.com,"City, Historical",Female,2,2
+731,618,303,1,Loved the beaches!,Jaipur City,Rajasthan,City,8.39215366577806,Oct-Mar,718,128,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,2,2
+732,456,655,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.509850241166378,Nov-Feb,972,795,2024-03-20,5,Kavya,kavya@example.com,"Beaches, Historical",Female,1,1
+733,640,188,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.009714714967838,Apr-Jun,688,387,2024-01-01,5,Kavya,kavya@example.com,"Nature, Adventure",Female,1,0
+736,638,762,1,Incredible monument!,Jaipur City,Rajasthan,City,9.315119560288965,Oct-Mar,129,739,2024-03-20,1,Isha,isha@example.com,"City, Historical",Female,2,0
+736,638,762,1,Incredible monument!,Jaipur City,Rajasthan,City,9.315119560288965,Oct-Mar,415,964,2024-01-01,5,Isha,isha@example.com,"City, Historical",Female,2,0
+737,928,165,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.026833743679079,Oct-Mar,251,519,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,0
+738,587,418,1,A historical wonder,Goa Beaches,Goa,Beach,7.768523623167793,Nov-Mar,664,373,2024-01-01,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+741,830,838,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.928094923060946,Apr-Jun,864,335,2024-03-20,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,2
+742,103,454,3,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,375,676,2024-03-20,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+742,103,454,3,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,865,457,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+743,771,782,1,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.129988976860952,Nov-Feb,150,805,2024-03-20,3,Aditya,aditya@example.com,"Nature, Adventure",Male,1,0
+744,859,746,2,A historical wonder,Kerala Backwaters,Kerala,Nature,7.921623278868692,Sep-Mar,212,807,2024-02-15,5,Pooja,pooja@example.com,"Nature, Adventure",Female,2,1
+746,909,191,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.740400669784297,Sep-Mar,639,389,2024-03-20,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+748,53,862,1,Incredible monument!,Jaipur City,Rajasthan,City,8.399568313158765,Oct-Mar,264,525,2024-03-20,3,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+748,53,862,1,Incredible monument!,Jaipur City,Rajasthan,City,8.399568313158765,Oct-Mar,558,103,2024-03-20,2,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+750,646,832,1,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.90349451280123,Nov-Feb,255,122,2024-03-20,1,Meera,meera@example.com,"Beaches, Historical",Female,2,1
+752,576,524,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.450301921040447,Nov-Feb,115,476,2024-01-01,5,Diya,diya@example.com,"Nature, Adventure",Female,2,2
+753,132,898,5,A historical wonder,Goa Beaches,Goa,Beach,8.188672007745929,Nov-Mar,836,21,2024-02-15,3,Pooja,pooja@example.com,"Beaches, Historical",Female,2,0
+754,188,626,3,Incredible monument!,Jaipur City,Rajasthan,City,8.202625978518912,Oct-Mar,918,952,2024-03-20,4,Rohan,rohan@example.com,"Nature, Adventure",Male,2,0
+755,110,182,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.885980061188206,Apr-Jun,366,7,2024-03-20,5,Ritvik,ritvik@example.com,"Nature, Adventure",Male,1,1
+758,717,199,5,Loved the beaches!,Goa Beaches,Goa,Beach,8.367306496099209,Nov-Mar,982,396,2024-01-01,3,Vivaan,vivaan@example.com,"Beaches, Historical",Male,1,0
+759,348,454,5,A historical wonder,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,375,676,2024-03-20,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+759,348,454,5,A historical wonder,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,865,457,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+760,387,873,4,Incredible monument!,Goa Beaches,Goa,Beach,8.763403696969464,Nov-Mar,626,135,2024-02-15,2,Anika,anika@example.com,"City, Historical",Female,2,0
+761,493,478,4,Loved the beaches!,Jaipur City,Rajasthan,City,8.878936494411294,Oct-Mar,784,539,2024-01-01,2,Arjun,arjun@example.com,"Beaches, Historical",Male,2,0
+763,362,315,1,Incredible monument!,Goa Beaches,Goa,Beach,8.908499371844,Nov-Mar,285,496,2024-03-20,2,Arjun,arjun@example.com,"City, Historical",Male,2,0
+763,362,315,1,Incredible monument!,Goa Beaches,Goa,Beach,8.908499371844,Nov-Mar,707,463,2024-02-15,1,Arjun,arjun@example.com,"City, Historical",Male,2,0
+770,177,373,2,Loved the beaches!,Goa Beaches,Goa,Beach,9.446896779006565,Nov-Mar,506,867,2024-02-15,5,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+770,177,373,2,Loved the beaches!,Goa Beaches,Goa,Beach,9.446896779006565,Nov-Mar,571,865,2024-01-01,1,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+771,782,869,2,A historical wonder,Goa Beaches,Goa,Beach,8.99783225118662,Nov-Mar,8,901,2024-02-15,4,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+771,782,869,2,A historical wonder,Goa Beaches,Goa,Beach,8.99783225118662,Nov-Mar,229,217,2024-01-01,2,Karan,karan@example.com,"Nature, Adventure",Male,1,1
+772,445,465,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.845173227424654,Apr-Jun,682,511,2024-01-01,2,Aditya,aditya@example.com,"City, Historical",Male,1,1
+773,776,639,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.459363313306993,Nov-Feb,444,545,2024-03-20,5,Ishaan,ishaan@example.com,"City, Historical",Male,1,2
+774,997,187,4,A historical wonder,Goa Beaches,Goa,Beach,8.203518828553301,Nov-Mar,744,717,2024-03-20,4,Isha,isha@example.com,"Beaches, Historical",Female,1,0
+775,122,252,4,Incredible monument!,Goa Beaches,Goa,Beach,7.791202932648026,Nov-Mar,266,618,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+775,122,252,4,Incredible monument!,Goa Beaches,Goa,Beach,7.791202932648026,Nov-Mar,282,504,2024-03-20,1,Arjun,arjun@example.com,"City, Historical",Male,2,2
+775,122,252,4,Incredible monument!,Goa Beaches,Goa,Beach,7.791202932648026,Nov-Mar,368,997,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+777,645,859,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,64,880,2024-01-01,3,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,1
+777,645,859,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,848,566,2024-02-15,5,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,1
+777,645,859,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,952,955,2024-01-01,1,Dhruv,dhruv@example.com,"Beaches, Historical",Male,2,1
+782,770,189,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,380,978,2024-02-15,3,Meera,meera@example.com,"City, Historical",Female,1,1
+784,420,642,5,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518480867,Apr-Jun,419,434,2024-02-15,4,Aanya,aanya@example.com,"City, Historical",Female,1,1
+787,696,898,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.627961321716496,Nov-Feb,836,21,2024-02-15,3,Pooja,pooja@example.com,"Beaches, Historical",Female,2,0
+788,220,261,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608299943,Apr-Jun,433,120,2024-01-01,1,Ishaan,ishaan@example.com,"City, Historical",Male,2,2
+793,620,191,2,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.896288153040157,Apr-Jun,639,389,2024-03-20,1,Karan,karan@example.com,"Nature, Adventure",Male,2,1
+794,762,23,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.147811499679674,Nov-Mar,499,725,2024-01-01,3,Arjun,arjun@example.com,"Nature, Adventure",Male,2,1
+797,517,70,4,Loved the beaches!,Goa Beaches,Goa,Beach,8.715019439382655,Nov-Mar,300,41,2024-03-20,3,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+801,992,213,1,A historical wonder,Goa Beaches,Goa,Beach,8.114747172536235,Nov-Mar,475,230,2024-01-01,2,Aarav,aarav@example.com,"City, Historical",Male,1,2
+801,992,213,1,A historical wonder,Goa Beaches,Goa,Beach,8.114747172536235,Nov-Mar,756,905,2024-03-20,4,Aarav,aarav@example.com,"City, Historical",Male,1,2
+804,643,197,1,A historical wonder,Jaipur City,Rajasthan,City,9.300321813290449,Oct-Mar,563,728,2024-02-15,4,Anika,anika@example.com,"Nature, Adventure",Female,1,1
+804,643,197,1,A historical wonder,Jaipur City,Rajasthan,City,9.300321813290449,Oct-Mar,658,396,2024-01-01,4,Anika,anika@example.com,"Nature, Adventure",Female,1,1
+806,217,580,4,Loved the beaches!,Goa Beaches,Goa,Beach,9.14476464169103,Nov-Mar,9,890,2024-03-20,1,Riya,riya@example.com,"Beaches, Historical",Female,1,0
+807,347,21,3,A historical wonder,Goa Beaches,Goa,Beach,7.920959927553192,Nov-Mar,840,489,2024-03-20,3,Dhruv,dhruv@example.com,"City, Historical",Male,1,0
+809,535,872,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.177624039641806,Apr-Jun,875,782,2024-02-15,1,Hitesh,hitesh@example.com,"Nature, Adventure",Male,1,1
+810,814,272,1,A historical wonder,Kerala Backwaters,Kerala,Nature,7.589205999248015,Sep-Mar,629,9,2024-02-15,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,0
+811,454,727,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.250765565651493,Sep-Mar,909,732,2024-03-20,2,Aanya,aanya@example.com,"Beaches, Historical",Female,1,1
+812,12,402,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.084317505906522,Nov-Mar,175,417,2024-01-01,1,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+812,12,402,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.084317505906522,Nov-Mar,787,613,2024-01-01,2,Dhruv,dhruv@example.com,"City, Historical",Male,2,0
+813,222,258,3,A historical wonder,Goa Beaches,Goa,Beach,8.240843057485613,Nov-Mar,854,721,2024-02-15,1,Hitesh,hitesh@example.com,"City, Historical",Male,2,1
+814,633,944,1,Incredible monument!,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,113,391,2024-02-15,4,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+814,633,944,1,Incredible monument!,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,133,749,2024-01-01,4,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+814,633,944,1,Incredible monument!,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,503,732,2024-02-15,3,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+814,633,944,1,Incredible monument!,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,610,702,2024-01-01,3,Riya,riya@example.com,"Nature, Adventure",Female,2,0
+815,95,324,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.18716561676901,Apr-Jun,29,38,2024-02-15,5,Rohan,rohan@example.com,"City, Historical",Male,1,1
+816,164,709,4,A historical wonder,Kerala Backwaters,Kerala,Nature,7.81836693407545,Sep-Mar,593,984,2024-02-15,3,Karan,karan@example.com,"Beaches, Historical",Male,2,1
+817,598,917,1,Incredible monument!,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,317,601,2024-02-15,2,Anika,anika@example.com,"Nature, Adventure",Female,2,2
+818,102,470,2,Loved the beaches!,Goa Beaches,Goa,Beach,7.901206474541698,Nov-Mar,4,660,2024-01-01,1,Arjun,arjun@example.com,"Nature, Adventure",Male,2,1
+819,317,852,1,A historical wonder,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,74,874,2024-02-15,5,Dhruv,dhruv@example.com,"City, Historical",Male,2,2
+819,317,852,1,A historical wonder,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,252,79,2024-03-20,4,Dhruv,dhruv@example.com,"City, Historical",Male,2,2
+820,29,961,2,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.320514389999829,Sep-Mar,727,355,2024-01-01,2,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+823,415,878,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,34,732,2024-01-01,1,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+823,415,878,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,243,421,2024-03-20,3,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+823,415,878,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,401,239,2024-02-15,1,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+823,415,878,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,584,872,2024-02-15,4,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+823,415,878,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.650437608917823,Apr-Jun,667,661,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,1,2
+824,600,924,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.390934664335951,Apr-Jun,893,292,2024-02-15,1,Tanvi,tanvi@example.com,"City, Historical",Female,1,1
+826,377,538,1,Incredible monument!,Goa Beaches,Goa,Beach,7.92228615054826,Nov-Mar,269,837,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+826,377,538,1,Incredible monument!,Goa Beaches,Goa,Beach,7.92228615054826,Nov-Mar,999,30,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+827,712,242,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.810464389396717,Nov-Mar,439,459,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+828,784,364,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.317882740052342,Sep-Mar,947,262,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,2,2
+830,610,834,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,81,575,2024-03-20,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+830,610,834,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,659,866,2024-02-15,4,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+830,610,834,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,715,361,2024-01-01,5,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+830,610,834,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,839,245,2024-02-15,2,Vivaan,vivaan@example.com,"City, Historical",Male,2,1
+831,287,126,4,A historical wonder,Goa Beaches,Goa,Beach,9.171525350501778,Nov-Mar,314,983,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,1,0
+832,447,831,5,Incredible monument!,Goa Beaches,Goa,Beach,8.888745118422108,Nov-Mar,997,78,2024-01-01,1,Pooja,pooja@example.com,"City, Historical",Female,2,2
+833,436,40,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,973,654,2024-01-01,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+835,668,794,3,Incredible monument!,Jaipur City,Rajasthan,City,7.593849734423116,Oct-Mar,305,853,2024-02-15,4,Meera,meera@example.com,"Nature, Adventure",Female,2,1
+838,13,644,1,Incredible monument!,Jaipur City,Rajasthan,City,9.114721643188815,Oct-Mar,293,545,2024-02-15,5,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,0
+841,132,971,5,Incredible monument!,Goa Beaches,Goa,Beach,8.188672007745929,Nov-Mar,345,767,2024-03-20,2,Diya,diya@example.com,"Nature, Adventure",Female,2,2
+843,977,970,3,A historical wonder,Goa Beaches,Goa,Beach,8.499576395856343,Nov-Mar,730,270,2024-01-01,5,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,0
+847,651,755,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,9.464391796425565,Nov-Feb,920,344,2024-02-15,2,Arjun,arjun@example.com,"Nature, Adventure",Male,2,2
+849,523,71,1,A historical wonder,Jaipur City,Rajasthan,City,8.998307150645953,Oct-Mar,223,840,2024-01-01,4,Kavya,kavya@example.com,"Nature, Adventure",Female,2,2
+850,103,799,4,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,228,404,2024-03-20,4,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+850,103,799,4,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,620,568,2024-02-15,1,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+850,103,799,4,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,828,390,2024-03-20,4,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+850,103,799,4,Incredible monument!,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,962,55,2024-02-15,3,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+851,311,765,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.093952306204637,Nov-Feb,250,908,2024-01-01,5,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+851,311,765,4,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.093952306204637,Nov-Feb,549,169,2024-03-20,2,Hitesh,hitesh@example.com,"City, Historical",Male,2,0
+852,464,286,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.555128223838274,Sep-Mar,550,968,2024-01-01,1,Vivaan,vivaan@example.com,"Beaches, Historical",Male,2,2
+852,464,286,2,A historical wonder,Kerala Backwaters,Kerala,Nature,8.555128223838274,Sep-Mar,984,697,2024-03-20,2,Vivaan,vivaan@example.com,"Beaches, Historical",Male,2,2
+853,207,538,3,Incredible monument!,Goa Beaches,Goa,Beach,8.560557283746103,Nov-Mar,269,837,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+853,207,538,3,Incredible monument!,Goa Beaches,Goa,Beach,8.560557283746103,Nov-Mar,999,30,2024-03-20,5,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+854,129,95,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,9.066328357904666,Sep-Mar,747,67,2024-03-20,2,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+855,791,961,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,9.42168809807716,Nov-Feb,727,355,2024-01-01,2,Isha,isha@example.com,"Beaches, Historical",Female,1,2
+858,364,693,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.029543990563425,Sep-Mar,485,3,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,2,0
+858,364,693,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.029543990563425,Sep-Mar,739,488,2024-01-01,1,Aditya,aditya@example.com,"City, Historical",Male,2,0
+859,850,560,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,347,38,2024-02-15,1,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+859,850,560,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,529,349,2024-01-01,4,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+859,850,560,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,569,657,2024-02-15,3,Tanvi,tanvi@example.com,"Nature, Adventure",Female,1,1
+861,946,446,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.012249945176515,Nov-Feb,72,105,2024-03-20,3,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+861,946,446,2,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.012249945176515,Nov-Feb,442,115,2024-01-01,4,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+865,741,328,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.72777553164018,Nov-Feb,75,303,2024-03-20,4,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+865,741,328,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.72777553164018,Nov-Feb,677,477,2024-02-15,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+865,741,328,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.72777553164018,Nov-Feb,769,653,2024-01-01,5,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+865,741,328,4,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.72777553164018,Nov-Feb,793,292,2024-01-01,1,Saanvi,saanvi@example.com,"Beaches, Historical",Female,2,0
+869,4,126,5,Loved the beaches!,Kerala Backwaters,Kerala,Nature,7.9773855361057935,Sep-Mar,314,983,2024-02-15,3,Isha,isha@example.com,"City, Historical",Female,1,0
+870,207,70,3,A historical wonder,Goa Beaches,Goa,Beach,8.560557283746103,Nov-Mar,300,41,2024-03-20,3,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+871,118,21,3,Incredible monument!,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,840,489,2024-03-20,3,Dhruv,dhruv@example.com,"City, Historical",Male,1,0
+872,782,274,2,Loved the beaches!,Goa Beaches,Goa,Beach,8.99783225118662,Nov-Mar,783,772,2024-03-20,4,Aarav,aarav@example.com,"Beaches, Historical",Male,1,2
+874,378,579,5,Incredible monument!,Jaipur City,Rajasthan,City,9.36474701059834,Oct-Mar,346,211,2024-01-01,4,Aarav,aarav@example.com,"City, Historical",Male,2,1
+875,900,180,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.81228742963959,Apr-Jun,193,960,2024-01-01,3,Saanvi,saanvi@example.com,"City, Historical",Female,1,2
+877,877,786,4,Incredible monument!,Goa Beaches,Goa,Beach,7.911432523928271,Nov-Mar,232,42,2024-01-01,5,Tanvi,tanvi@example.com,"City, Historical",Female,2,1
+879,878,813,4,A historical wonder,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,890,441,2024-02-15,2,Aditya,aditya@example.com,"City, Historical",Male,1,2
+880,497,799,3,Incredible monument!,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,228,404,2024-03-20,4,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+880,497,799,3,Incredible monument!,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,620,568,2024-02-15,1,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+880,497,799,3,Incredible monument!,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,828,390,2024-03-20,4,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+880,497,799,3,Incredible monument!,Goa Beaches,Goa,Beach,8.698828827904826,Nov-Mar,962,55,2024-02-15,3,Riya,riya@example.com,"Beaches, Historical",Female,1,2
+881,55,340,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629646730556,Apr-Jun,965,645,2024-02-15,2,Diya,diya@example.com,"Beaches, Historical",Female,1,0
+883,976,423,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.008536059147975,Nov-Feb,78,619,2024-03-20,4,Aarav,aarav@example.com,"City, Historical",Male,1,2
+883,976,423,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.008536059147975,Nov-Feb,402,901,2024-03-20,5,Aarav,aarav@example.com,"City, Historical",Male,1,2
+884,76,821,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.019776840711156,Nov-Feb,367,469,2024-01-01,3,Arjun,arjun@example.com,"Nature, Adventure",Male,1,2
+884,76,821,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,9.019776840711156,Nov-Feb,837,410,2024-03-20,5,Arjun,arjun@example.com,"Nature, Adventure",Male,1,2
+885,920,40,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.584679630283544,Apr-Jun,973,654,2024-01-01,5,Aditya,aditya@example.com,"Beaches, Historical",Male,1,1
+886,419,678,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,543,706,2024-03-20,3,Meera,meera@example.com,"City, Historical",Female,2,2
+887,60,847,2,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.090294276209098,Apr-Jun,386,931,2024-02-15,4,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+888,732,55,2,A historical wonder,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,374,271,2024-02-15,4,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+888,732,55,2,A historical wonder,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,686,808,2024-02-15,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+889,373,996,5,Incredible monument!,Jaipur City,Rajasthan,City,9.276956975859664,Oct-Mar,873,452,2024-03-20,3,Dhruv,dhruv@example.com,"City, Historical",Male,1,1
+891,875,898,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.98297001694882,Apr-Jun,836,21,2024-02-15,3,Pooja,pooja@example.com,"Beaches, Historical",Female,2,0
+892,586,76,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,20,310,2024-02-15,2,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+892,586,76,5,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,986,29,2024-02-15,5,Anika,anika@example.com,"Beaches, Historical",Female,2,0
+893,686,916,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.260858751837267,Nov-Feb,165,753,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+893,686,916,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.260858751837267,Nov-Feb,642,627,2024-03-20,1,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+895,398,165,5,Incredible monument!,Jaipur City,Rajasthan,City,8.33295003386784,Oct-Mar,251,519,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,0
+896,360,584,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.117132891287836,Apr-Jun,351,757,2024-03-20,3,Rohan,rohan@example.com,"Nature, Adventure",Male,1,2
+898,183,948,1,Incredible monument!,Jaipur City,Rajasthan,City,8.872498743885908,Oct-Mar,122,1000,2024-02-15,3,Hitesh,hitesh@example.com,"City, Historical",Male,1,0
+899,645,579,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,346,211,2024-01-01,4,Aarav,aarav@example.com,"City, Historical",Male,2,1
+902,805,480,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,149,389,2024-02-15,1,Riya,riya@example.com,"City, Historical",Female,2,0
+902,805,480,4,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,646,490,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,2,0
+903,391,443,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.937176476917816,Nov-Feb,242,67,2024-02-15,2,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+904,865,729,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748130234,Apr-Jun,729,874,2024-03-20,3,Diya,diya@example.com,"City, Historical",Female,2,0
+908,900,937,5,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.81228742963959,Apr-Jun,651,712,2024-03-20,1,Riya,riya@example.com,"Beaches, Historical",Female,2,2
+909,365,917,5,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,317,601,2024-02-15,2,Anika,anika@example.com,"Nature, Adventure",Female,2,2
+911,609,418,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.29568641738167,Sep-Mar,664,373,2024-01-01,4,Pooja,pooja@example.com,"Beaches, Historical",Female,1,2
+912,193,461,5,A historical wonder,Jaipur City,Rajasthan,City,7.672819736516948,Oct-Mar,88,329,2024-01-01,1,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+912,193,461,5,A historical wonder,Jaipur City,Rajasthan,City,7.672819736516948,Oct-Mar,244,788,2024-01-01,4,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+912,193,461,5,A historical wonder,Jaipur City,Rajasthan,City,7.672819736516948,Oct-Mar,894,823,2024-03-20,2,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+913,649,803,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.167683021047935,Sep-Mar,358,177,2024-01-01,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+913,649,803,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.167683021047935,Sep-Mar,788,950,2024-02-15,5,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+913,649,803,5,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.167683021047935,Sep-Mar,912,161,2024-03-20,1,Isha,isha@example.com,"Nature, Adventure",Female,2,1
+914,936,862,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.02055897257851,Nov-Feb,264,525,2024-03-20,3,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+914,936,862,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.02055897257851,Nov-Feb,558,103,2024-03-20,2,Arjun,arjun@example.com,"Beaches, Historical",Male,1,1
+915,682,864,3,A historical wonder,Goa Beaches,Goa,Beach,8.57790096253945,Nov-Mar,350,410,2024-02-15,2,Riya,riya@example.com,"City, Historical",Female,2,2
+916,704,444,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.917510991611324,Sep-Mar,289,327,2024-01-01,2,Riya,riya@example.com,"City, Historical",Female,1,0
+917,551,117,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.374491709395679,Nov-Feb,381,366,2024-03-20,1,Aarav,aarav@example.com,"City, Historical",Male,2,1
+917,551,117,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.374491709395679,Nov-Feb,849,154,2024-03-20,2,Aarav,aarav@example.com,"City, Historical",Male,2,1
+918,598,95,2,A historical wonder,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,747,67,2024-03-20,2,Kavya,kavya@example.com,"Nature, Adventure",Female,2,1
+919,654,287,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.441880661939361,Sep-Mar,262,253,2024-01-01,4,Isha,isha@example.com,"Nature, Adventure",Female,1,2
+921,660,674,4,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,616,295,2024-01-01,1,Aarav,aarav@example.com,"Nature, Adventure",Male,1,1
+922,942,461,5,Incredible monument!,Goa Beaches,Goa,Beach,8.702652455921308,Nov-Mar,88,329,2024-01-01,1,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+922,942,461,5,Incredible monument!,Goa Beaches,Goa,Beach,8.702652455921308,Nov-Mar,244,788,2024-01-01,4,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+922,942,461,5,Incredible monument!,Goa Beaches,Goa,Beach,8.702652455921308,Nov-Mar,894,823,2024-03-20,2,Saanvi,saanvi@example.com,"Nature, Adventure",Female,1,0
+924,263,226,1,A historical wonder,Jaipur City,Rajasthan,City,9.407835019184882,Oct-Mar,881,485,2024-02-15,5,Tanvi,tanvi@example.com,"Beaches, Historical",Female,2,1
+925,695,261,4,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.288646088702306,Apr-Jun,433,120,2024-01-01,1,Ishaan,ishaan@example.com,"City, Historical",Male,2,2
+926,690,925,1,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.195260134545546,Apr-Jun,776,198,2024-02-15,3,Ritvik,ritvik@example.com,"Beaches, Historical",Male,2,2
+928,509,584,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,9.25204552164384,Sep-Mar,351,757,2024-03-20,3,Rohan,rohan@example.com,"Nature, Adventure",Male,1,2
+929,598,321,5,Loved the beaches!,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,281,805,2024-02-15,4,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+929,598,321,5,Loved the beaches!,Jaipur City,Rajasthan,City,7.754720778868718,Oct-Mar,341,229,2024-02-15,5,Tanvi,tanvi@example.com,"City, Historical",Female,2,2
+931,40,252,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473447708324,Apr-Jun,266,618,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+931,40,252,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473447708324,Apr-Jun,282,504,2024-03-20,1,Arjun,arjun@example.com,"City, Historical",Male,2,2
+931,40,252,3,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473447708324,Apr-Jun,368,997,2024-02-15,3,Arjun,arjun@example.com,"City, Historical",Male,2,2
+932,975,220,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,721,606,2024-01-01,3,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+932,975,220,3,Loved the beaches!,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,795,273,2024-03-20,5,Aanya,aanya@example.com,"Beaches, Historical",Female,2,0
+933,296,70,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.01345163279451,Nov-Feb,300,41,2024-03-20,3,Rohan,rohan@example.com,"Beaches, Historical",Male,1,2
+934,348,840,1,Incredible monument!,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,488,103,2024-02-15,5,Diya,diya@example.com,"City, Historical",Female,1,0
+935,683,847,2,Loved the beaches!,Jaipur City,Rajasthan,City,8.419040819940108,Oct-Mar,386,931,2024-02-15,4,Kavya,kavya@example.com,"Beaches, Historical",Female,1,0
+937,514,826,3,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.980635862122308,Sep-Mar,705,413,2024-03-20,4,Diya,diya@example.com,"Beaches, Historical",Female,2,0
+939,279,798,2,A historical wonder,Kerala Backwaters,Kerala,Nature,7.841206949727761,Sep-Mar,265,394,2024-01-01,3,Rohan,rohan@example.com,"City, Historical",Male,2,1
+939,279,798,2,A historical wonder,Kerala Backwaters,Kerala,Nature,7.841206949727761,Sep-Mar,742,975,2024-01-01,5,Rohan,rohan@example.com,"City, Historical",Male,2,1
+942,960,475,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,857,821,2024-02-15,5,Karan,karan@example.com,"Beaches, Historical",Male,1,1
+943,632,188,1,Incredible monument!,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,688,387,2024-01-01,5,Kavya,kavya@example.com,"Nature, Adventure",Female,1,0
+946,626,446,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.64985755753062,Nov-Feb,72,105,2024-03-20,3,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+946,626,446,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.64985755753062,Nov-Feb,442,115,2024-01-01,4,Saanvi,saanvi@example.com,"Nature, Adventure",Female,2,2
+949,166,990,1,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,7.967520190746358,Nov-Feb,763,81,2024-01-01,3,Diya,diya@example.com,"City, Historical",Female,2,2
+950,961,569,2,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.385107105120452,Nov-Feb,500,451,2024-02-15,2,Aanya,aanya@example.com,"Nature, Adventure",Female,2,2
+951,419,240,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,751,935,2024-01-01,2,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+951,419,240,4,A historical wonder,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,960,700,2024-03-20,1,Tanvi,tanvi@example.com,"City, Historical",Female,1,2
+953,429,78,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,125,61,2024-02-15,4,Aditya,aditya@example.com,"City, Historical",Male,1,0
+953,429,78,3,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,825,581,2024-03-20,3,Aditya,aditya@example.com,"City, Historical",Male,1,0
+954,621,936,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.820265199039039,Nov-Feb,183,159,2024-03-20,1,Aditya,aditya@example.com,"City, Historical",Male,1,0
+954,621,936,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.820265199039039,Nov-Feb,486,350,2024-03-20,1,Aditya,aditya@example.com,"City, Historical",Male,1,0
+954,621,936,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.820265199039039,Nov-Feb,955,346,2024-01-01,4,Aditya,aditya@example.com,"City, Historical",Male,1,0
+956,346,682,3,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,353,335,2024-02-15,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+957,510,311,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.380186804036049,Apr-Jun,438,965,2024-03-20,5,Diya,diya@example.com,"Nature, Adventure",Female,2,0
+958,249,620,4,Incredible monument!,Kerala Backwaters,Kerala,Nature,8.89428404394321,Sep-Mar,387,624,2024-03-20,4,Aditya,aditya@example.com,"Nature, Adventure",Male,2,0
+959,113,16,2,Loved the beaches!,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,511,970,2024-01-01,2,Anika,anika@example.com,"Beaches, Historical",Female,1,2
+959,113,16,2,Loved the beaches!,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,829,40,2024-01-01,4,Anika,anika@example.com,"Beaches, Historical",Female,1,2
+959,113,16,2,Loved the beaches!,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,929,176,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,1,2
+961,769,781,1,Incredible monument!,Kerala Backwaters,Kerala,Nature,7.57663598347406,Sep-Mar,41,284,2024-02-15,3,Anika,anika@example.com,"Beaches, Historical",Female,1,0
+963,451,970,5,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,7.948981237202266,Nov-Feb,730,270,2024-01-01,5,Tanvi,tanvi@example.com,"Beaches, Historical",Female,1,0
+965,544,46,2,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.517940732286046,Sep-Mar,14,487,2024-02-15,1,Anika,anika@example.com,"Beaches, Historical",Female,2,1
+966,935,454,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132236787,Apr-Jun,375,676,2024-03-20,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+966,935,454,1,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132236787,Apr-Jun,865,457,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+967,840,942,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.93351873337229,Apr-Jun,310,289,2024-01-01,3,Vivaan,vivaan@example.com,"City, Historical",Male,1,0
+967,840,942,1,Incredible monument!,Leh Ladakh,Jammu and Kashmir,Adventure,7.93351873337229,Apr-Jun,636,984,2024-03-20,1,Vivaan,vivaan@example.com,"City, Historical",Male,1,0
+969,555,668,3,A historical wonder,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,615,322,2024-03-20,4,Dhruv,dhruv@example.com,"Nature, Adventure",Male,2,0
+972,289,63,1,A historical wonder,Kerala Backwaters,Kerala,Nature,7.844009444111711,Sep-Mar,396,825,2024-03-20,2,Arjun,arjun@example.com,"City, Historical",Male,2,0
+972,289,63,1,A historical wonder,Kerala Backwaters,Kerala,Nature,7.844009444111711,Sep-Mar,749,747,2024-02-15,2,Arjun,arjun@example.com,"City, Historical",Male,2,0
+975,387,736,5,A historical wonder,Goa Beaches,Goa,Beach,8.763403696969464,Nov-Mar,455,970,2024-02-15,2,Dhruv,dhruv@example.com,"Beaches, Historical",Male,1,1
+977,537,338,1,Loved the beaches!,Goa Beaches,Goa,Beach,9.187047298341549,Nov-Mar,490,436,2024-01-01,5,Rohan,rohan@example.com,"Nature, Adventure",Male,2,1
+978,831,20,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.771961835427916,Nov-Feb,472,311,2024-01-01,5,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+978,831,20,3,A historical wonder,Taj Mahal,Uttar Pradesh,Historical,8.771961835427916,Nov-Feb,799,674,2024-01-01,4,Meera,meera@example.com,"Nature, Adventure",Female,2,0
+989,469,858,4,Loved the beaches!,Kerala Backwaters,Kerala,Nature,8.661784765251305,Sep-Mar,423,250,2024-03-20,3,Rohan,rohan@example.com,"City, Historical",Male,1,2
+991,701,850,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.814028636189173,Nov-Feb,138,131,2024-03-20,1,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+991,701,850,3,Incredible monument!,Taj Mahal,Uttar Pradesh,Historical,8.814028636189173,Nov-Feb,643,761,2024-01-01,4,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,0
+995,231,346,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.788256139986302,Nov-Feb,454,113,2024-01-01,2,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+995,231,346,5,Loved the beaches!,Taj Mahal,Uttar Pradesh,Historical,7.788256139986302,Nov-Feb,556,128,2024-01-01,4,Hitesh,hitesh@example.com,"Beaches, Historical",Male,2,2
+997,823,858,5,Incredible monument!,Jaipur City,Rajasthan,City,8.501224868997667,Oct-Mar,423,250,2024-03-20,3,Rohan,rohan@example.com,"City, Historical",Male,1,2
